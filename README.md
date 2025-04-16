@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/198cb09b-595b-4e9c-98c5-e6265434c392" 
        alt="WhatsApp" 
        title="Click to chat on WhatsApp" 
-       width="180" 
+       width="150" 
        style="border-radius: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" />
 </a>
 
