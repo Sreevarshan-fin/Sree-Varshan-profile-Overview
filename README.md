@@ -1,21 +1,15 @@
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://wa.me/your-whatsapp-number">
-        <img src="https://github.com/user-attachments/assets/198cb09b-595b-4e9c-98c5-e6265434c392" alt="WhatsApp" title="Click to chat on WhatsApp" width="60" />
-      </a>
-    </td>
-    <td align="left">
-      <p align="center">
-        <h1>Hi, I'm Sreevarshan 👋</h1>
-      </p>
+<a href="https://wa.me/your-whatsapp-number">
+  <img src="https://github.com/user-attachments/assets/198cb09b-595b-4e9c-98c5-e6265434c392" alt="WhatsApp" title="Click to chat on WhatsApp">
+</a>
 
-      ## About Me
 
-      I am a data-driven professional specializing in **Machine Learning**, **Data Analysis**, and **Business Intelligence**. With a strong background in Python and SQL, I thrive in transforming data into actionable insights and building advanced predictive models. My expertise spans a range of industries, and I am passionate about leveraging technology to solve complex business challenges.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <h1>Hi, I'm Sreevarshan 👋</h1>
+</p>
+
+## About Me
+
+I am a data-driven professional specializing in **Machine Learning**, **Data Analysis**, and **Business Intelligence**. With a strong background in Python and SQL, I thrive in transforming data into actionable insights and building advanced predictive models. My expertise spans a range of industries, and I am passionate about leveraging technology to solve complex business challenges.
 
 
 ## Technologies & Tools
