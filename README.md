@@ -1,4 +1,7 @@
-  ![WhatsApp Image 2025-03-16 at 10 10 27 AM (1)](https://github.com/user-attachments/assets/198cb09b-595b-4e9c-98c5-e6265434c392)
+<a href="https://wa.me/your-whatsapp-number">
+  <img src="https://github.com/user-attachments/assets/198cb09b-595b-4e9c-98c5-e6265434c392" alt="WhatsApp" title="Click to chat on WhatsApp">
+</a>
+
 
 <p align="center">
   <h1>Hi, I'm Sreevarshan 👋</h1>
