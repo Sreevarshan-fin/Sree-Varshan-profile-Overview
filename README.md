@@ -34,9 +34,9 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 - **[AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)**: Analyzing hospitality industry data to drive better decision-making processes.
 
 ### SQL & Data Analysis Projects
-- **[Amazon E-Commerce Analysis (SQL)](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)**: E-commerce sales analysis using SQL and Power BI for actionable business insights.
+- **[Amazon E-Commerce Analysis ](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)**: E-commerce sales analysis using SQL and Power BI for actionable business insights.
 - **[Ad-Hoc Analysis SQL Project](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)**: In-depth SQL analysis for dynamic and efficient querying of large datasets.
-- **[Hardware Consumer Goods Analysis (SQL)](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-)**: SQL-based analysis of consumer goods data for hardware products.
+- **[Hardware Consumer Goods Analysis ](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-)**: SQL-based analysis of consumer goods data for hardware products.
 
 ### Power BI Projects
 - **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**: Business Intelligence dashboards built in Power BI for tracking hardware business performance.
