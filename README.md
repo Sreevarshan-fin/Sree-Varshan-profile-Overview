@@ -23,7 +23,7 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 - **SQL**: SQL Server, MySQL, Data Querying & Analysis
 - **Business Intelligence**: Power BI, Data Visualization, Dashboards
 
-## Featured Projects
+## Projects
 
 ### Machine Learning Projects
 - **[HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)**: Predicting insurance premiums using ML algorithms based on health data.
