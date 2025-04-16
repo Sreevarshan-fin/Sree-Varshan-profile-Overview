@@ -69,8 +69,8 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
 ## Currently Learning:
 - Advanced machine learning and Deep Learning techniques
 
-## Certifications
-# 📜 Professional Certifications
+
+##  Certifications
 
 ### **Data Science & Analytics**
 
