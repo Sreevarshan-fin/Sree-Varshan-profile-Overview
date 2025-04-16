@@ -61,13 +61,15 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
     </td>
     <td align="center">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=itssreevarshan@gmail.com" target="_blank">
-        <img src="![gmail](https://github.com/user-attachments/assets/4dbcff72-493f-4f53-8455-bb5f92aedbbb)
-" alt="Gmail" width="50" /><br/>
+        <img src="https://github.com/user-attachments/assets/4dbcff72-493f-4f53-8455-bb5f92aedbbb" alt="Gmail" width="50" /><br/>
         <strong>Email</strong>
       </a>
     </td>
   </tr>
 </table>
+
+<!-- Profile Image Below (use either HTML or Markdown) -->
+<img src="https://github.com/user-attachments/assets/6514f697-6177-4d20-bbb0-f423c5a8059a" alt="Profile" width="200" />
 
 
 
