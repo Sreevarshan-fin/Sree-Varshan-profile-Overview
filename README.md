@@ -70,12 +70,27 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
 - Advanced machine learning and Deep Learning techniques
 
 ## Certifications
-[![Python for Data Science](https://img.icons8.com/color/48/000000/python.png)](https://codebasics.io/certificate/CB-48-495191)  
-[![SQL for Data Science](https://img.icons8.com/ios-filled/50/000000/sql.png)](https://codebasics.io/certificate/CB-50-495191)  
-[![Maths & Statistics for Data Science](https://img.icons8.com/ios/50/000000/math.png)](https://codebasics.io/certificate/CB-63-495191)  
-[![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://codebasics.io/certificate/CB-49-495191)  
-[![Foresight BI & Analytics](https://github.com/user-attachments/assets/ba3a2130-3f85-45ce-8aab-26b47c3a2c82)](https://training.foresightbi.com.ng/certificates/rihluvmyez)
+### **Certifications**  
 
+[![Python for Data Science](https://img.icons8.com/color/48/000000/python.png)](https://codebasics.io/certificate/CB-48-495191)  
+**Python for Data Science**  
+*Issued by: Codebasics*  
+
+[![SQL for Data Science](https://img.icons8.com/ios-filled/50/000000/sql.png)](https://codebasics.io/certificate/CB-50-495191)  
+**SQL for Data Science**  
+*Issued by: Codebasics*  
+
+[![Math & Statistics for Data Science](https://img.icons8.com/ios/50/000000/math.png)](https://codebasics.io/certificate/CB-63-495191)  
+**Math & Statistics for Data Science**  
+*Issued by: Codebasics*  
+
+[![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://codebasics.io/certificate/CB-49-495191)  
+**Power BI**  
+*Issued by: Codebasics*  
+
+[![Foresight BI & Analytics](https://raw.githubusercontent.com/your-username/your-repo/main/assets/foresight-bi-logo.png)](https://training.foresightbi.com.ng/certificates/rihluvmyez)  
+**Foresight BI & Analytics**  
+*Issued by: Foresight BI*  
 
 
 
