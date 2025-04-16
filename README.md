@@ -46,6 +46,4 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 
 [![Gmail Logo](https://github.com/user-attachments/assets/4565bacb-e466-4c87-b8b4-2baf5c78797c)](mailto:itssreevarshan@gmail.com)
 
-
-
 Thank you for visiting my GitHub profile! 😊
