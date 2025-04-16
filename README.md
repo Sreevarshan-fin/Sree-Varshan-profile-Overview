@@ -12,18 +12,18 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/sreevarshan/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/39275837-813c-449f-8e57-b07d4d960102" alt="LinkedIn" width="50" /><br/>
+        <img src="https://github.com/user-attachments/assets/39275837-813c-449f-8e57-b07d4d960102" alt="LinkedIn" width="30" /><br/>
         <strong>LinkedIn</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=itssreevarshan@gmail.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/4dbcff72-493f-4f53-8455-bb5f92aedbbb" alt="Gmail" width="50" /><br/>
+        <img src="https://github.com/user-attachments/assets/4dbcff72-493f-4f53-8455-bb5f92aedbbb" alt="Gmail" width="30" /><br/>
         <strong>Email</strong>
       </a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6514f697-6177-4d20-bbb0-f423c5a8059a" alt="Profile" width="50" /><br/>
+      <img src="https://github.com/user-attachments/assets/6514f697-6177-4d20-bbb0-f423c5a8059a" alt="Profile" width="30" /><br/>
       <strong>portfolio</strong>
     </td>
   </tr>
