@@ -1,41 +1,41 @@
-<h1 align="center">Hi, I'm Sree Varshan 👋</h1>
+# Hi there, I'm Sreevarshan 👋
 
-<p align="center">
-  🚀 Data Enthusiast | SQL & Power BI | Python Learner | Turning data into insights
-</p>
+Welcome to my GitHub! I'm a passionate developer with a strong focus on **Machine Learning**, **Data Analysis**, and **Business Intelligence**. I enjoy solving complex problems and building impactful solutions using data.
 
----
+## 🔧 Technologies & Tools
+- **Machine Learning**: Python (Scikit-learn, TensorFlow, Keras), Naive Bayes, Regression Models, Classification
+- **Data Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL**: SQL Server, MySQL, Data Querying & Analysis
+- **Business Intelligence**: Power BI, Data Visualization, Dashboards
 
-### 🧠 Projects Portfolio
+## 📂 Projects
+Here are some of the key projects that showcase my skills:
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction) | Python, ML | Predicts health insurance premiums using regression models. |
-| [SQL Ad-Hoc Analysis](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis) | SQL | Business data analysis with complex queries & insights. |
-| [Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics) | Power BI | Business dashboards and interactive visualizations. |
-| [AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project) | SQL, BI | Insights on credit card performance & customer usage. |
-| [AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis) | SQL, Power BI | Revenue and performance insights for a hotel chain. |
-| [Amazon E-Commerce SQL Project](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce) | SQL | E-commerce data deep dive and trend discovery. |
+### Machine Learning Projects
+- **[HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)**: Predicting insurance premiums based on health data using ML algorithms.
+- **[SMS Spam Classification Using Naive Bayes](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)**: A spam detection system using Naive Bayes classifier.
 
----
+### SQL & Data Analysis Projects
+- **[Amazon E-Commerce Analysis (SQL & Power BI)](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)**: Data analysis and reporting of Amazon e-commerce data using SQL and Power BI.
+- **[Ad-Hoc Analysis SQL Project](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)**: SQL-driven ad-hoc analysis project with a focus on efficient querying.
+- **[Hardware Consumer Goods Analysis (SQL)](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-)**: Analyzing hardware consumer goods data for FY 2020-2021.
 
-### 🚀 Tools & Technologies
+### Power BI Projects
+- **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**: Business Intelligence dashboards created in Power BI for hardware business analysis.
+- **[Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)**: Power BI reports and analytics for business decision-making.
 
-- **Languages:** SQL, Python  
-- **Tools:** Power BI, Excel, Jupyter Notebook  
-- **Libraries:** Pandas, Matplotlib, Scikit-learn  
-- **Version Control:** Git & GitHub  
+### Python & EDA (Exploratory Data Analysis)
+- **[AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)**: Exploratory data analysis and insights from bank credit card transaction data.
+- **[AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)**: Analyzing data from the hospitality industry using Python for better decision-making.
 
----
+## 🌱 I'm currently learning:
+- Advanced machine learning algorithms
+- Big data technologies (e.g., Hadoop, Spark)
+- Cloud technologies (AWS, Azure)
 
-### 📫 Let's Connect
+## 💬 Feel free to connect with me!
+- LinkedIn: [Sreevarshan](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: [sreevarshan@example.com](mailto:sreevarshan@example.com)
 
-[![LinkedIn] https://www.linkedin.com/in/sreevarshan-sivagnanam-7ab463337/
+Thanks for visiting my profile! 😊
 
-📧 itssreevarshan@gmail.com *(replace with your actual email if you'd like)*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sreevarshan-fin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
