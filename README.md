@@ -39,7 +39,9 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 
 
 ## Let's Connect!
-- **LinkedIn**: [Sreevarshan](https://www.linkedin.com/in/sreevarshan-sivagnanam-7ab463337/)
-- **Email**: [Sree varshan](mailto:itssreevarshan@gmail.com)
+-  [![download](https://github.com/user-attachments/assets/7aa731f3-038c-4e46-91e8-3e713787bc71)
+](https://www.linkedin.com/in/sreevarshan-sivagnanam-7ab463337/)
+-  ![images (1)](https://github.com/user-attachments/assets/4565bacb-e466-4c87-b8b4-2baf5c78797c)
+](mailto:itssreevarshan@gmail.com)
 
 Thank you for visiting my GitHub profile! 😊
