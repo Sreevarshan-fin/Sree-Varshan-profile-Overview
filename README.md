@@ -67,7 +67,7 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/6514f697-6177-4d20-bbb0-f423c5a8059a" alt="Profile" width="50" /><br/>
-      <strong>Profile</strong>
+      <strong>portfolio</strong>
     </td>
   </tr>
 </table>
