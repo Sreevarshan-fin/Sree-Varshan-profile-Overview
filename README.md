@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">  
   <h1>Hi, I'm Sreevarshan 👋</h1>
 </p>
 
@@ -30,7 +30,7 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 ### Power BI Projects
 - **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**: Business Intelligence dashboards built in Power BI for tracking hardware business performance.
 - **[Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)**: Power BI reports and analytics aimed at enhancing business decision-making.
-- **[Amazon E-Commerce]**(https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+- **[Amazon E-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**: Business intelligence dashboard showcasing e-commerce analytics.
 
 ## Currently Learning:
 - Advanced machine learning techniques
