@@ -48,7 +48,10 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 </a>
 
 
+<strong>Email</strong>  
+<a href="mailto:itssreevarshan@gmail.com">
+  <img src="https://github.com/user-attachments/assets/4565bacb-e466-4c87-b8b4-2baf5c78797c" alt="Gmail" width="70" style="vertical-align:middle; margin-left:10px;" />
+</a>
 
-[![Gmail Logo](https://github.com/user-attachments/assets/4565bacb-e466-4c87-b8b4-2baf5c78797c)](mailto:itssreevarshan@gmail.com)
 
 Thank you for visiting my GitHub profile! 😊
