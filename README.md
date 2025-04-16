@@ -65,11 +65,13 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
         <strong>Email</strong>
       </a>
     </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6514f697-6177-4d20-bbb0-f423c5a8059a" alt="Profile" width="70" /><br/>
+      <strong>Profile</strong>
+    </td>
   </tr>
 </table>
 
-<!-- Profile Image Below (use either HTML or Markdown) -->
-<img src="https://github.com/user-attachments/assets/6514f697-6177-4d20-bbb0-f423c5a8059a" alt="Profile" width="200" />
 
 
 
