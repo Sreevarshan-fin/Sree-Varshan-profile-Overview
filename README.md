@@ -67,38 +67,6 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
 - **[Amazon E-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**: Business intelligence dashboard showcasing e-commerce analytics.
 
 
-
-## 🚀 Projects
-
-### 📊 Machine Learning
-
-| Project | Description | Technologies | Link |
-|---------|-------------|--------------|------|
-| **HealthCare Insurance Premium Prediction** | Predicting insurance premiums using ML algorithms | Python, Scikit-learn, Pandas | [![View](https://img.shields.io/badge/View-Repository-blue)](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction) |
-| **SMS Spam Classification** | Spam detection system using Naive Bayes | Python, NLP, Naive Bayes | [![View](https://img.shields.io/badge/View-Repository-blue)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes) |
-
-### 🐍 Python & EDA
-
-| Project | Description | Technologies | Link |
-|---------|-------------|--------------|------|
-| **AtliQ Bank Credit Card Analysis** | EDA on credit card transaction data | Python, Pandas, Matplotlib | [![View](https://img.shields.io/badge/View-Repository-blue)](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project) |
-| **AtliQ Hospitality Analysis** | Hospitality industry insights | Python, Seaborn, EDA | [![View](https://img.shields.io/badge/View-Repository-blue)](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis) |
-
-### 🗃️ SQL & Data Analysis
-
-| Project | Description | Technologies | Link |
-|---------|-------------|--------------|------|
-| **Amazon E-Commerce Analysis** | Sales analytics with SQL & Power BI | SQL, Power BI | [![View](https://img.shields.io/badge/View-Repository-blue)](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce) |
-| **Ad-Hoc SQL Analysis** | Dynamic querying of large datasets | SQL, Query Optimization | [![View](https://img.shields.io/badge/View-Repository-blue)](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis) |
-| **Hardware Consumer Goods Analysis** | FY2020-2021 product analytics | SQL, Data Modeling | [![View](https://img.shields.io/badge/View-Repository-blue)](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-) |
-
-### 📈 Power BI
-
-| Project | Description | Technologies | Link |
-|---------|-------------|--------------|------|
-| **AtliQ Hardware Business 360** | Business performance dashboards | Power BI, DAX | [![View](https://img.shields.io/badge/View-Repository-blue)](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360) |
-| **Foresight BI Analytics** | Business decision-making reports | Power BI, Data Modeling | [![View](https://img.shields.io/badge/View-Repository-blue)](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics) |
-| **Amazon E-Commerce Dashboard** | Live business intelligence dashboard | Power BI Service, Power Query | [![View](https://img.shields.io/badge/View-Live_Dashboard-green)](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) |
 ## Currently Learning:
 - Advanced machine learning and Deep Learning techniques
 
