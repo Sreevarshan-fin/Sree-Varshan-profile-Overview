@@ -47,7 +47,7 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/sreevarshan/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/7aa731f3-038c-4e46-91e8-3e713787bc71" alt="LinkedIn" width="60" /><br/>
+        <img src="https://github.com/user-attachments/assets/7aa731f3-038c-4e46-91e8-3e713787bc71" alt="LinkedIn" width="70" /><br/>
         <strong>LinkedIn</strong>
       </a>
     </td>
