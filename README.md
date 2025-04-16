@@ -107,3 +107,31 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
 
 
 Thank you for visiting my GitHub profile! 😊
+
+
+## 🚀 Projects
+
+### 🔍 Machine Learning
+| Project | Technologies | Links |
+|---------|--------------|-------|
+| **[HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)** | Python, Scikit-learn, Pandas | [![code](https://img.shields.io/badge/Code-View%20Repository-blue)](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction) |
+| **[SMS Spam Classification](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)** | Python, NLP, Naive Bayes | [![code](https://img.shields.io/badge/Code-View%20Repository-blue)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes) |
+
+### 🐍 Python & EDA
+| Project | Technologies | Links |
+|---------|--------------|-------|
+| **[AtliQ Bank Credit Card Analysis](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)** | Pandas, Matplotlib, Seaborn | [![code](https://img.shields.io/badge/Code-View%20Repository-blue)](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project) |
+| **[AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)** | Python, EDA, Data Visualization | [![code](https://img.shields.io/badge/Code-View%20Repository-blue)](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis) |
+
+### 🗃️ SQL & Data Analysis
+| Project | Technologies | Links |
+|---------|--------------|-------|
+| **[Amazon E-Commerce Analysis](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)** | SQL, Power BI | [![code](https://img.shields.io/badge/Code-View%20Repository-blue)](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce) |
+| **[Ad-Hoc SQL Analysis](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)** | SQL, Query Optimization | [![code](https://img.shields.io/badge/Code-View%20Repository-blue)](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis) |
+
+### 📊 Power BI
+| Project | Technologies | Links |
+|---------|--------------|-------|
+| **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)** | Power BI, DAX | [![code](https://img.shields.io/badge/Code-View%20Repository-blue)](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360) |
+| **[Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)** | Power BI, Data Modeling | [![code](https://img.shields.io/badge/Code-View%20Repository-blue)](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics) |
+| **[Amazon E-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)** | Power BI Service | [![demo](https://img.shields.io/badge/Demo-View%20Dashboard-green)](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) |
