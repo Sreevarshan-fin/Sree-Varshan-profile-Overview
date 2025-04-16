@@ -55,7 +55,7 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/sreevarshan/" target="_blank">
-        <img src="![linkedin]("https://github.com/user-attachments/assets/39275837-813c-449f-8e57-b07d4d960102)" alt="LinkedIn" width="70" /><br/>
+        <img src="https://github.com/user-attachments/assets/39275837-813c-449f-8e57-b07d4d960102" alt="LinkedIn" width="70" /><br/>
         <strong>LinkedIn</strong>
       </a>
     </td>
