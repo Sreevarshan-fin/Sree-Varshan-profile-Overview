@@ -30,7 +30,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
+[![LinkedIn] https://www.linkedin.com/in/sreevarshan-sivagnanam-7ab463337/
 📧 sreevarshan@example.com *(replace with your actual email if you'd like)*
 
 ---
