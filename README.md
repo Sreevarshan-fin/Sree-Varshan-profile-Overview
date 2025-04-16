@@ -48,7 +48,7 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 </a>
 
 
-<a href="mailto:itssreevarshan@gmail.com" style="text-decoration: none;">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itssreevarshan@gmail.com" target="_blank" style="text-decoration: none;">
   <strong>Email</strong>
   <img src="https://github.com/user-attachments/assets/4565bacb-e466-4c87-b8b4-2baf5c78797c" alt="Gmail" width="70" style="vertical-align:middle; margin-left:10px;" />
   <span style="vertical-align:middle; margin-left:8px;">itssreevarshan@gmail.com</span>
