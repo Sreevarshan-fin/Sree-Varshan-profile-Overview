@@ -31,7 +31,8 @@
 ### 📫 Let's Connect
 
 [![LinkedIn] https://www.linkedin.com/in/sreevarshan-sivagnanam-7ab463337/
-📧 sreevarshan@example.com *(replace with your actual email if you'd like)*
+
+📧 itssreevarshan@gmail.com *(replace with your actual email if you'd like)*
 
 ---
 
