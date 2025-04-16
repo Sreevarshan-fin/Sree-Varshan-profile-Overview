@@ -74,7 +74,7 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
 [![SQL for Data Science](https://img.icons8.com/ios-filled/50/000000/sql.png)](https://codebasics.io/certificate/CB-50-495191)
 [![Maths & Statistics for Data Science](https://img.icons8.com/ios/50/000000/math.png)](https://codebasics.io/certificate/CB-63-495191)
 [![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://codebasics.io/certificate/CB-49-495191)
-[![Analytics](https://img.icons8.com/ios-filled/50/000000/analytics.png)](https://training.foresightbi.com.ng/certificates/rihluvmyez)
+[![Foresight BI](![download (1)](https://github.com/user-attachments/assets/ba3a2130-3f85-45ce-8aab-26b47c3a2c82)](https://training.foresightbi.com.ng/certificates/rihluvmyez)  
 
 
 
