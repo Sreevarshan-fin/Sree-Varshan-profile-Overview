@@ -70,33 +70,33 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
 - Advanced machine learning and Deep Learning techniques
 
 ## Certifications
-# Certifications
+# 📜 Professional Certifications
 
-<div align="center">
-  <a href="https://codebasics.io/certificate/CB-48-495191">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python for Data Science"/>
-  </a>
-  <a href="https://codebasics.io/certificate/CB-50-495191">
-    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL for Data Science"/>
-  </a>
-  <a href="https://codebasics.io/certificate/CB-63-495191">
-    <img src="https://img.icons8.com/ios/50/000000/math.png" alt="Statistics" title="Math & Statistics"/>
-  </a>
-  <a href="https://codebasics.io/certificate/CB-49-495191">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/>
-  </a>
-  <a href="https://training.foresightbi.com.ng/certificates/rihluvmyez">
-    <img src="https://img.icons8.com/color/48/228BE6/power-bi.png" alt="Foresight BI" title="Foresight BI (Power BI Advanced)"/>
-  </a>
-</div>
+### **Data Science & Analytics**
 
-| Certification | Issuer | Verification |
-|--------------|--------|--------------|
-| Python for Data Science | Codebasics | [Verify](https://codebasics.io/certificate/CB-48-495191) |
-| SQL for Data Science | Codebasics | [Verify](https://codebasics.io/certificate/CB-50-495191) |
-| Math & Statistics | Codebasics | [Verify](https://codebasics.io/certificate/CB-63-495191) |
-| Power BI | Codebasics | [Verify](https://codebasics.io/certificate/CB-49-495191) |
-| Foresight BI (Power BI Advanced) | Foresight BI | [Verify](https://training.foresightbi.com.ng/certificates/rihluvmyez) |
+[![Python](https://img.icons8.com/color/40/python.png)](https://codebasics.io/certificate/CB-48-495191)  
+**Python for Data Science**  
+*Issuer:* Codebasics | [Verify Credential](https://codebasics.io/certificate/CB-48-495191)  
+
+[![SQL](https://img.icons8.com/ios-filled/40/sql.png)](https://codebasics.io/certificate/CB-50-495191)  
+**SQL for Data Science**  
+*Issuer:* Codebasics | [Verify Credential](https://codebasics.io/certificate/CB-50-495191)  
+
+[![Statistics](https://img.icons8.com/ios/40/math.png)](https://codebasics.io/certificate/CB-63-495191)  
+**Math & Statistics for Data Science**  
+*Issuer:* Codebasics | [Verify Credential](https://codebasics.io/certificate/CB-63-495191)  
+
+### **Business Intelligence**
+
+[![Power BI](https://img.icons8.com/color/40/power-bi.png)](https://codebasics.io/certificate/CB-49-495191)  
+**Power BI Certification**  
+*Issuer:* Codebasics | [Verify Credential](https://codebasics.io/certificate/CB-49-495191)  
+
+[![Foresight BI](https://img.icons8.com/color/40/228BE6/power-bi.png)](https://training.foresightbi.com.ng/certificates/rihluvmyez)  
+**Advanced Power BI Analytics**  
+*Issuer:* Foresight BI | [Verify Credential](https://training.foresightbi.com.ng/certificates/rihluvmyez)  
+
+---
 
 
 
