@@ -69,15 +69,12 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
 ## Currently Learning:
 - Advanced machine learning and Deep Learning techniques
 
-
-## 🏅 Certifications
-
-## 🏅 Certifications
-
+## Certifications
 [![Python for Data Science](https://img.icons8.com/color/48/000000/python.png)](https://codebasics.io/certificate/CB-48-495191) 
 [![SQL for Data Science](https://img.icons8.com/ios-filled/50/000000/sql.png)](https://codebasics.io/certificate/CB-50-495191)
 [![Maths & Statistics for Data Science](https://img.icons8.com/external-flat-juicy-fish/60/external-math-back-to-school-flat-flat-juicy-fish.png)](https://codebasics.io/certificate/CB-63-495191)
 [![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://codebasics.io/certificate/CB-49-495191)
 [![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://training.foresightbi.com.ng/certificates/rihluvmyez)
+
 
 Thank you for visiting my GitHub profile! 😊
