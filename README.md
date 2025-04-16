@@ -14,7 +14,9 @@
 
 ## About Me
 
-I am a data-driven professional specializing in **Machine Learning**, **Data Analysis**, and **Business Intelligence**. With a strong background in Python and SQL, I thrive in transforming data into actionable insights and building advanced predictive models. My expertise spans a range of industries, and I am passionate about leveraging technology to solve complex business challenges.
+Analytical and detail-oriented Data Analytics professional skilled in Power BI, SQL, Python, Excel, and Google Sheets. Experienced in designing impactful dashboards, performing advanced data analysis, and delivering insights that support strategic decision-making.
+
+Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to solve business problems and uncover patterns in complex datasets. Strong in stakeholder communication, problem-solving, and presenting data in a clear, actionable format.
 
 
 ## Technologies & Tools
