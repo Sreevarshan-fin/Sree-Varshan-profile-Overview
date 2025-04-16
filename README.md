@@ -18,6 +18,10 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 - **[HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)**: Predicting insurance premiums using ML algorithms based on health data.
 - **[SMS Spam Classification Using Naive Bayes](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)**: A spam classification system leveraging the Naive Bayes algorithm.
 
+### Python & EDA (Exploratory Data Analysis)
+- **[AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)**: EDA and insights derived from bank credit card transaction data.
+- **[AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)**: Analyzing hospitality industry data to drive better decision-making processes.
+
 ### SQL & Data Analysis Projects
 - **[Amazon E-Commerce Analysis (SQL & Power BI)](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)**: E-commerce sales analysis using SQL and Power BI for actionable business insights.
 - **[Ad-Hoc Analysis SQL Project](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)**: In-depth SQL analysis for dynamic and efficient querying of large datasets.
@@ -27,9 +31,6 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 - **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**: Business Intelligence dashboards built in Power BI for tracking hardware business performance.
 - **[Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)**: Power BI reports and analytics aimed at enhancing business decision-making.
 
-### Python & EDA (Exploratory Data Analysis)
-- **[AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)**: EDA and insights derived from bank credit card transaction data.
-- **[AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)**: Analyzing hospitality industry data to drive better decision-making processes.
 
 ## Currently Learning:
 - Advanced machine learning techniques
