@@ -57,7 +57,7 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/sreevarshan-sivagnanam-7ab463337/" target="_blank">
+      <a href="https://www.linkedin.com/in/sreevarshan/" target="_blank">
         <img src="https://github.com/user-attachments/assets/7aa731f3-038c-4e46-91e8-3e713787bc71" alt="LinkedIn" width="60" /><br/>
         <strong>LinkedIn</strong>
       </a>
@@ -65,8 +65,7 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
     <td align="center">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=itssreevarshan@gmail.com" target="_blank">
         <img src="https://github.com/user-attachments/assets/4565bacb-e466-4c87-b8b4-2baf5c78797c" alt="Gmail" width="60" /><br/>
-        <strong>Email</strong><br/>
-     
+        <strong>Email</strong>
       </a>
     </td>
   </tr>
