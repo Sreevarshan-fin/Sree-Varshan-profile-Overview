@@ -33,12 +33,11 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 - **[Amazon E-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**: Business intelligence dashboard showcasing e-commerce analytics.
 
 ## Currently Learning:
-- Advanced machine learning techniques
-- Big data technologies (e.g., Hadoop, Spark)
-- Cloud platforms (AWS, Azure)
+- Advanced machine learning and Deep Learning techniques
+
 
 ## Let's Connect!
-- **LinkedIn**: [Sreevarshan](https://www.linkedin.com/in/your-linkedin-profile)
-- **Email**: [sreevarshan@example.com](mailto:sreevarshan@example.com)
+- **LinkedIn**: [Sreevarshan](https://www.linkedin.com/in/sreevarshan-sivagnanam-7ab463337/)
+- **Email**: [Sree varshan](mailto:itssreevarshan@gmail.com)
 
 Thank you for visiting my GitHub profile! 😊
