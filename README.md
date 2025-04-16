@@ -42,17 +42,6 @@ I am a data-driven professional specializing in **Machine Learning**, **Data Ana
 
 
 ## Let's Connect!
-<strong>LinkedIn</strong>  
-<a href="https://www.linkedin.com/in/sreevarshan-sivagnanam-7ab463337/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/7aa731f3-038c-4e46-91e8-3e713787bc71" alt="LinkedIn" width="70" style="vertical-align:middle; margin-left:10px;" />
-</a>
-
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itssreevarshan@gmail.com" target="_blank" style="text-decoration: none;">
-  <strong>Email</strong>
-  <img src="https://github.com/user-attachments/assets/4565bacb-e466-4c87-b8b4-2baf5c78797c" alt="Gmail" width="70" style="vertical-align:middle; margin-left:10px;" />
-  <span style="vertical-align:middle; margin-left:8px;">itssreevarshan@gmail.com</span>
-</a>
 
 <table>
   <tr>
