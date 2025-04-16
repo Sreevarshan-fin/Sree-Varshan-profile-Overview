@@ -69,17 +69,20 @@ Hands-on knowledge of machine learning (ML) and deep learning (DL) techniques to
 ## Currently Learning:
 - Advanced machine learning and Deep Learning techniques
 
-## 🏅 Certifications
 
 ## 🏅 Certifications
 
-| 📘 Title | 🏢 Issuer | 🔗 Certificate |
-|----------|----------|----------------|
-| <img src="https://img.icons8.com/color/48/000000/python.png" width="25"/> Python for Data Science | Codebasics | [View Certificate](https://codebasics.io/certificate/CB-48-495191) |
-| <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="25"/> SQL for Data Science | Codebasics | [View Certificate](https://codebasics.io/certificate/CB-50-495191) |
-| <img src="![curve](https://github.com/user-attachments/assets/3e327b7c-808c-418f-bcd2-4a7043959368)
-" width="25"/> Maths & Statistics for Data Science | Codebasics | [View Certificate](https://codebasics.io/certificate/CB-63-495191) |
-| <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25"/> Power BI | Codebasics | [View Certificate](https://codebasics.io/certificate/CB-49-495191) |
-| <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25"/> Power BI | Foresight BI | [View Certificate](https://training.foresightbi.com.ng/certificates/rihluvmyez) |
+## 🏅 Certifications
+
+- [![Python for Data Science](https://img.icons8.com/color/48/000000/python.png)](https://codebasics.io/certificate/CB-48-495191) [Python for Data Science - Codebasics](https://codebasics.io/certificate/CB-48-495191)
+
+- [![SQL for Data Science](https://img.icons8.com/ios-filled/50/000000/sql.png)](https://codebasics.io/certificate/CB-50-495191) [SQL for Data Science - Codebasics](https://codebasics.io/certificate/CB-50-495191)
+
+- [![Maths & Statistics for Data Science](https://img.icons8.com/external-flat-juicy-fish/60/external-math-back-to-school-flat-flat-juicy-fish.png)](https://codebasics.io/certificate/CB-63-495191) [Maths & Statistics for Data Science - Codebasics](https://codebasics.io/certificate/CB-63-495191)
+
+- [![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://codebasics.io/certificate/CB-49-495191) [Power BI - Codebasics](https://codebasics.io/certificate/CB-49-495191)
+
+- [![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://training.foresightbi.com.ng/certificates/rihluvmyez) [Power BI - Foresight BI](https://training.foresightbi.com.ng/certificates/rihluvmyez)
+
 
 Thank you for visiting my GitHub profile! 😊
