@@ -46,7 +46,7 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ## Projects
 
-### 🚀 Healthcare Premium Prediction App
+# 🚀 Healthcare Premium Prediction App
 
 Explore this **Machine Learning project** where I predict healthcare insurance premiums based on patient health data using regression models. The app is deployed with Streamlit for an interactive user experience.
 
@@ -59,6 +59,8 @@ Explore this **Machine Learning project** where I predict healthcare insurance p
 
 ### Machine Learning Projects
 
+- **[HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)**: A machine learning model predicting healthcare insurance premiums based on patient health data using regression models. Deployed via Streamlit.
+  
 - **[SMS Spam Classification Using Naive Bayes](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)**: A spam classification system leveraging the Naive Bayes algorithm.
 
 
