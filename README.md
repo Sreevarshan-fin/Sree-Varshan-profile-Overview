@@ -62,8 +62,10 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ### Python & EDA (Exploratory Data Analysis)
 
-- **[AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)**: EDA and insights derived from bank credit card transaction data.
-- **[AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)**: Analyzing hospitality industry data to drive better decision-making processes.
+- **[AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)**:
+  EDA and insights derived from bank credit card transaction data.
+- **[AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)**:
+  Analyzing hospitality industry data to drive better decision-making processes.
   
 ---
 
