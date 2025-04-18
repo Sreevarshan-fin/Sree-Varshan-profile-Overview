@@ -42,6 +42,8 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 - **SQL**: SQL Server, MySQL, Data Querying & Analysis
 - **Business Intelligence**: Power BI, Data Visualization, Dashboards
 
+----
+
 ## Projects
 
 ### Machine Learning 
@@ -51,8 +53,8 @@ Explore this **Machine Learning project** where I predict healthcare insurance p
 
 [![Open in Streamlit](https://img.shields.io/badge/Launch%20App-Streamlit-%23FF4B4B?logo=streamlit)](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
 
-- **Tech Stack**: Python, Machine Learning, Regression Models, Streamlit
-- **Repo**: [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
+ **Tech Stack**: Python, Machine Learning, Regression Models, Streamlit
+ **Repo**: [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
 
 - **[SMS Spam Classification Using Naive Bayes](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)**: A spam classification system leveraging the Naive Bayes algorithm.
 
@@ -65,6 +67,8 @@ Explore this **Machine Learning project** where I predict healthcare insurance p
 
 - **[AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)**: EDA and insights derived from bank credit card transaction data.
 - **[AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)**: Analyzing hospitality industry data to drive better decision-making processes.
+  
+---
 
 ### SQL & Data Analysis Projects
 
@@ -72,11 +76,15 @@ Explore this **Machine Learning project** where I predict healthcare insurance p
 - **[Ad-Hoc Analysis SQL Project](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)**: In-depth SQL analysis for dynamic and efficient querying of large datasets.
 - **[Hardware Consumer Goods Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-)**: SQL-based analysis of consumer goods data for hardware products.
 
+---
+
 ### Power BI Projects
 
 - **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**: Business Intelligence dashboards built in Power BI for tracking hardware business performance.
 - **[Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)**: Power BI reports and analytics aimed at enhancing business decision-making.
 - **[Amazon E-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**: Business intelligence dashboard showcasing e-commerce analytics.
+
+---
 
 ## Currently Learning
 
