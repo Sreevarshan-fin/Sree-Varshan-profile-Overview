@@ -43,14 +43,14 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 - **Business Intelligence**: Power BI, Data Visualization, Dashboards
 
 ## Projects
+## 🚀 Featured Project – Healthcare Premium Prediction
 
-# Healthcare Premium Prediction
+[![Open in Streamlit](https://img.shields.io/badge/Launch%20App-Streamlit-%23FF4B4B?logo=streamlit)](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
 
-## 🚀 Streamlit App
+**Repo:** [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)  
+An ML project to predict insurance premiums based on patient health records using regression models and deployed with Streamlit.
 
-**Check out the live Healthcare Premium Prediction app here:**
-
-👉 [Open App](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
+---
 
 
 ### Machine Learning Projects
