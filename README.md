@@ -44,7 +44,7 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ## Projects
 
-### Machine Learning Projects
+### Machine Learning 
 
 - **HealthCare Insurance Premium Prediction**
 Explore this **Machine Learning project** where I predict healthcare insurance premiums based on patient health data using regression models. The app is deployed with Streamlit for an interactive user experience.
