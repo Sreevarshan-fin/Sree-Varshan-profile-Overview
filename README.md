@@ -44,6 +44,15 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ## Projects
 
+# Healthcare Premium Prediction
+
+## 🚀 Streamlit App
+
+**Check out the live Healthcare Premium Prediction app here:**
+
+👉 [Open App](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
+
+
 ### Machine Learning Projects
 
 - **[HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)**: Predicting insurance premiums using ML algorithms based on health data.
