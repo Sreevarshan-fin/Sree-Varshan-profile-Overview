@@ -48,10 +48,11 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ### Machine Learning 
 
-- **HealthCare Insurance Premium Prediction**
+- ** [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)**
+- 
 Explore this **Machine Learning project** where I predict healthcare insurance premiums based on patient health data using regression models. The app is deployed with Streamlit for an interactive user experience.
  **Tech Stack**: Python, Machine Learning, Regression Models, Streamlit
- **Repo**: [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
+ **Repo**:
 [![Open in Streamlit](https://img.shields.io/badge/Launch%20App-Streamlit-%23FF4B4B?logo=streamlit)](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
 
 
