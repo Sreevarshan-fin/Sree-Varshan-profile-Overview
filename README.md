@@ -22,14 +22,12 @@
     </td>
     <td align="center">
       <a href="https://codebasics.io/portfolio/Sreevarshan-Sivaganam" target="_blank">
-        <img src="![searching](https://github.com/user-attachments/assets/fbcd53d6-bec9-491d-821b-c70008275dcf)
-" width="25" /><br/>
+        <img src="https://github.com/user-attachments/assets/fbcd53d6-bec9-491d-821b-c70008275dcf" alt="Portfolio" width="25" /><br/>
         <strong>Portfolio</strong>
       </a>
     </td>
   </tr>
 </table>
-
 
 <h1 align="center">Hi, I'm Sreevarshan 👋</h1>
 
