@@ -21,13 +21,14 @@
       </a>
     </td>
     <td align="center">
-      
-      <https://codebasics.io/portfolio/Sreevarshan-Sivaganam>
-      <img src="https://github.com/user-attachments/assets/6514f697-6177-4d20-bbb0-f423c5a8059a" alt="Profile" width="25" /><br/>
-      <strong>Portfolio</strong>
+      <a href="https://codebasics.io/portfolio/Sreevarshan-Sivaganam" target="_blank">
+        <img src="https://github.com/user-attachments/assets/6514f697-6177-4d20-bbb0-f423c5a8059a" alt="Portfolio" width="25" /><br/>
+        <strong>Portfolio</strong>
+      </a>
     </td>
   </tr>
 </table>
+
 
 <h1 align="center">Hi, I'm Sreevarshan 👋</h1>
 
