@@ -48,7 +48,7 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ## Projects
 
-### Machine Learning 
+### **Machine Learning**
 
 <h3>🔹 <a href="https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction">HealthCare Insurance Premium Prediction</a></h3>
 <p>Predicts healthcare insurance premiums using regression models based on user features such as age, BMI, and smoking status. Built with Python and Streamlit for an interactive experience.</p>
@@ -70,7 +70,7 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 ---
 
 
-### Python & EDA (Exploratory Data Analysis)
+### **Python & EDA (Exploratory Data Analysis)**
 
 - **[AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)**:
   EDA and insights derived from bank credit card transaction data.
@@ -79,8 +79,8 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
   
 ---
 
-### SQL & Data Analysis Projects
-<h2>🧠 SQL Projects</h2>
+
+### **SQL Projects**
 
 <!-- Amazon E-Commerce Analysis -->
 <div style="margin-bottom: 20px;">
@@ -124,15 +124,7 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ---
 
-<h3>
-  <strong>
-    <img src="https://img.icons8.com/color/24/000000/power-bi.png" alt="Power BI Logo" style="vertical-align: middle; margin-right: 8px;">
-    Power BI Projects
-  </strong>
-</h3>
-
-
-
+### **Power BI**
 
 <!-- AtliQ Hardware Business 360 -->
 <div style="margin-bottom: 20px;">
