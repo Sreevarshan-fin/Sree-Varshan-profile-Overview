@@ -93,6 +93,44 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 - **[Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)**: Power BI reports and analytics aimed at enhancing business decision-making.
 - **[Amazon E-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**: Business intelligence dashboard showcasing e-commerce analytics.
 
+<h2>📊 Power BI Projects</h2>
+
+<!-- AtliQ Hardware Business 360 -->
+<div style="margin-bottom: 20px;">
+  <h3>🔹 AtliQ Hardware Business 360</h3>
+  <p>Business Intelligence dashboards built in Power BI for tracking hardware business performance.</p>
+  <a href="https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">
+    <img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=power-bi" alt="Power BI Dashboard">
+  </a>
+</div>
+
+<!-- Foresight BI Analytics -->
+<div style="margin-bottom: 20px;">
+  <h3>🔹 Foresight BI Analytics</h3>
+  <p>Power BI reports and analytics aimed at enhancing business decision-making.</p>
+  <a href="https://github.com/Sreevarshan-fin/Foresight-BI-Analytics" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">
+    <img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=power-bi" alt="Power BI Dashboard">
+  </a>
+</div>
+
+<!-- Amazon E-Commerce Dashboard -->
+<div style="margin-bottom: 20px;">
+  <h3>🔹 Amazon E-Commerce Dashboard</h3>
+  <p>Business intelligence dashboard showcasing e-commerce analytics.</p>
+  <a href="https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">
+    <img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=power-bi" alt="Power BI Dashboard">
+  </a>
+</div>
+
 ---
 
 ## Currently Learning
