@@ -50,12 +50,6 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ### Machine Learning 
 
-- **[HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)**:Predicts insurance premiums using regression models with Python and Streamlit.  
-  **[![Open in Streamlit](https://img.shields.io/badge/Launch%20App-Streamlit-%23FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge&labelColor=FF4B4B)](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)**
-  
-- **[SMS Spam Classification Using Naive Bayes](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)**:  Classifies SMS messages as spam or not using the Naive Bayes algorithm.
-<h2>🧠 Projects</h2>
-
 <h3>🔹 <a href="https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction">HealthCare Insurance Premium Prediction</a></h3>
 <p>Predicts healthcare insurance premiums using regression models based on user features such as age, BMI, and smoking status. Built with Python and Streamlit for an interactive experience.</p>
 <p>
