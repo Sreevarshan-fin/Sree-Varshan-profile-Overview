@@ -131,6 +131,29 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
   </a>
 </div>
 
+<h2>📊 Power BI Projects</h2>
+
+<!-- AtliQ Hardware Business 360 -->
+<div style="margin-bottom: 20px;">
+  <h3>
+    🔹 <a href="https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">
+      AtliQ Hardware Business 360
+    </a>
+  </h3>
+  <p>Business Intelligence dashboards built in Power BI for tracking hardware business performance.</p>
+  <a href="https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">
+    <img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=power-bi" alt="Power BI Dashboard">
+  </a>
+</div>
+
+<!-- Foresight BI Analytics -->
+<div style="margin-bottom: 20px;">
+  <h3>
+    🔹 <a href="https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0Yjdh
+
 ---
 
 ## Currently Learning
