@@ -87,9 +87,9 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ---
 
-### Power BI Projects
+###  **Power BI Projects**
 
-<h2>📊 Power BI Projects</h2>
+
 
 <!-- AtliQ Hardware Business 360 -->
 <div style="margin-bottom: 20px;">
