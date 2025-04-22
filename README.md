@@ -80,10 +80,47 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 ---
 
 ### SQL & Data Analysis Projects
+<h2>🧠 SQL Projects</h2>
 
-- **[Amazon E-Commerce Analysis](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)**: E-commerce sales analysis using SQL and Power BI for actionable business insights.
-- **[Ad-Hoc Analysis SQL Project](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)**: In-depth SQL analysis for dynamic and efficient querying of large datasets.
-- **[Hardware Consumer Goods Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-)**: SQL-based analysis of consumer goods data for hardware products.
+<!-- Amazon E-Commerce Analysis -->
+<div style="margin-bottom: 20px;">
+  <h3>
+    🔹 <a href="https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce" target="_blank">
+      Amazon E-Commerce Analysis
+    </a>
+  </h3>
+  <p>E-commerce sales analysis using SQL and Power BI for actionable business insights.</p>
+  <a href="https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
+</div>
+
+<!-- Ad-Hoc Analysis SQL Project -->
+<div style="margin-bottom: 20px;">
+  <h3>
+    🔹 <a href="https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis" target="_blank">
+      Ad-Hoc Analysis SQL Project
+    </a>
+  </h3>
+  <p>In-depth SQL analysis for dynamic and efficient querying of large datasets.</p>
+  <a href="https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
+</div>
+
+<!-- Hardware Consumer Goods Analysis -->
+<div style="margin-bottom: 20px;">
+  <h3>
+    🔹 <a href="https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-" target="_blank">
+      Hardware Consumer Goods Analysis
+    </a>
+  </h3>
+  <p>SQL-based analysis of consumer goods data for hardware products.</p>
+  <a href="https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
+</div>
+
 
 ---
 
