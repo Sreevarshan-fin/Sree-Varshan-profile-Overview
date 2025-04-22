@@ -124,7 +124,12 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
 
 ---
 
-###  **Power BI Projects**
+<h3>
+  <strong>
+    <img src="https://img.icons8.com/color/24/000000/power-bi.png" alt="Power BI Logo" style="vertical-align: middle; margin-right: 8px;">
+    Power BI Projects
+  </strong>
+</h3>
 
 
 
