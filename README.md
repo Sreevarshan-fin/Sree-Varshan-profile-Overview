@@ -43,63 +43,56 @@ Hands-on with **Machine Learning (ML)** and **Deep Learning (DL)** techniques to
 
 ---
 
-## 💼 Projects
+## 📂 Projects
 
-### 🔍 **Machine Learning**
+### 🔬 Machine Learning
 
-#### 📌 [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
-Predicts healthcare premiums using regression models. Built with Streamlit for interactivity.
+#### 📌 [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)  
+Predicts insurance premiums using regression models based on age, BMI, smoking, etc.
 
-[![Launch App](https://img.shields.io/badge/Launch%20App-Streamlit-%23FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge&labelColor=FF4B4B)](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
-
-#### 📌 [SMS Spam Classification Using Naive Bayes](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)
-Classifies SMS messages as spam or not using TF-IDF and Multinomial Naive Bayes.
-
-[![Launch App](https://img.shields.io/badge/Launch%20App-Streamlit-%23FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge&labelColor=FF4B4B)](https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/)
+- 🌐 [**Live App**](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
+  
+  <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 ---
 
-### 📊 **Python & EDA**
+#### 📌 [SMS Spam Classification Using Naive Bayes](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)  
+Classifies SMS messages as spam or ham using TF-IDF and Naive Bayes.
 
-- 🔹 [AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)  
-- 🔹 [AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)
+- 🌐 [**Live App**](https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/)
 
----
-
-### 🧮 **SQL Projects**
-
-- 🔹 [Amazon E-Commerce Analysis](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)  
-- 🔹 [Ad-Hoc Analysis SQL Project](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)  
-- 🔹 [Hardware Consumer Goods Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-)
+  <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 ---
 
-### 📈 **Power BI Dashboards**
+### 📊 Power BI Dashboards
 
-- 🔹 [AtliQ Hardware Business 360](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-- 🔹 [Foresight BI Analytics](https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-- 🔹 [Amazon E-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+#### 📌 [AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)  
+Dashboard showcasing hardware sales & performance insights.
 
----
+- 📊 [**Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 📘 Certifications
-
-### 🧠 **Data Science & Analytics**
-- [Python for Data Science](https://codebasics.io/certificate/CB-48-495191) – Codebasics  
-- [SQL for Data Science](https://codebasics.io/certificate/CB-50-495191) – Codebasics  
-- [Math & Stats for DS](https://codebasics.io/certificate/CB-63-495191) – Codebasics  
-
-### 📊 **Business Intelligence**
-- [Power BI Certification](https://codebasics.io/certificate/CB-49-495191) – Codebasics  
-- [Advanced Power BI](https://training.foresightbi.com.ng/certificates/rihluvmyez) – Foresight BI  
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
-## 🎯 Currently Learning
-- Advanced Machine Learning & Deep Learning techniques
+#### 📌 [Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)  
+Advanced business insights with forecasting models and visuals.
 
-Thank you for visiting my GitHub profile! 😊
+- 📊 [**Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
+#### 📌 [Amazon E-Commerce Dashboard](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)  
+Visualizes e-commerce KPIs and category-wise performance.
+
+- 📊 [**Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
