@@ -67,7 +67,13 @@ Hands-on knowledge of Machine Learning (ML) and Deep Learning (DL) techniques to
     <img src="https://img.shields.io/badge/Launch%20App-Streamlit-%23FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge&labelColor=FF4B4B" alt="Open in Streamlit">
   </a>
 </p>
-
+<h3>🔹 <a href="https://github.com/Sreevarshan-fin/Credit-Risk-Analysis">Credit Risk Analysis</a></h3>
+<p>Analyzes customer data to predict credit risk categories (e.g., low, medium, high) using machine learning models. Focuses on data preprocessing, feature engineering, model selection, and evaluation. Built with Python and Streamlit for interactive exploration.</p>
+<p>
+  <a href="https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/">
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit-%23FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge&labelColor=FF4B4B" alt="Open in Streamlit">
+  </a>
+</p>
 
 ---
 
