@@ -27,10 +27,17 @@
 
 ## 🧠 About Me
 
-Analytical and detail-oriented **Data Analytics** professional skilled in **Power BI, SQL, Python, Excel, and Google Sheets**. Experienced in building impactful dashboards, performing insightful analysis, and driving data-backed decision-making.
+Passionate and results-driven Data Analytics professional with hands-on experience in Python, SQL, Power BI, and Machine Learning. Skilled at transforming complex data into actionable insights that support strategic decisions and improve business performance.
 
-Strong grasp of **Machine Learning** and **Deep Learning** techniques with practical applications in solving real-world business problems. Excellent communication skills with a knack for delivering complex insights in a clear, concise manner.
+Proficient in applying machine learning techniques such as regression, classification, and clustering to solve real-world problems. Adept at building dynamic, interactive Power BI dashboards that enable data-driven decision-making across marketing, sales, and finance. Known for clearly communicating technical insights to both technical and non-technical audiences.
 
+With a strong technical foundation and a sharp business perspective, I focus on delivering impactful analytics solutions that align with organizational goals. Constantly learning, iterating, and staying ahead of trends in data science and analytics.
+
+🚀 Mission Statement
+To empower organizations to make smarter, faster, and data-driven decisions by creating actionable and interpretable analytics solutions aligned with business goals.
+
+🌍 Vision Statement
+To become a trusted leader in data analytics, delivering innovative, scalable, and ethical solutions that create measurable impact and value across industries.
 ---
 
 ## 🛠️ Technologies & Tools
