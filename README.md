@@ -33,11 +33,12 @@ Proficient in applying machine learning techniques such as regression, classific
 
 With a strong technical foundation and a sharp business perspective, I focus on delivering impactful analytics solutions that align with organizational goals. Constantly learning, iterating, and staying ahead of trends in data science and analytics.
 
-🚀 Mission Statement
+🚀 **Mission Statement**
 To empower organizations to make smarter, faster, and data-driven decisions by creating actionable and interpretable analytics solutions aligned with business goals.
 
-🌍 Vision Statement
+🌍 **Vision Statement**
 To become a trusted leader in data analytics, delivering innovative, scalable, and ethical solutions that create measurable impact and value across industries.
+
 ---
 
 ## 🛠️ Technologies & Tools
