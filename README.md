@@ -44,19 +44,38 @@ Strong grasp of **Machine Learning** and **Deep Learning** techniques with pract
 
 ## 🚀 Projects
 
-### 🔬 Machine Learning
+## 🔬 Machine Learning Projects
 
-- **[HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)**  
-  Predicts premiums using regression techniques based on user data like age, BMI, smoking status.  
-  🔗 [Live App](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
+### 🩺 [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
 
-- **[SMS Spam Classification (Naive Bayes)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)**  
-  Classifies SMS messages using Multinomial Naive Bayes and TF-IDF.  
-  🔗 [Live App](https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/)
+Predicts healthcare insurance premiums using regression models based on user features like age, BMI, and smoking status.
 
-- **[Credit Risk Analysis](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis)**  
-  Categorizes customers into credit risk groups using machine learning.  
-  🔗 [Live App](https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/)
+- 🔗 **Live App**: [ml-healthcare-premium-prediction](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
+
+![HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction/raw/main/assets/healthcare_premium_prediction.png)
+
+---
+
+### ✉️ [SMS Spam Classification (Naive Bayes)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)
+
+Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Bayes and TF-IDF vectorization.
+
+- 🔗 **Live App**: [sms-spam-classification](https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/)
+
+![SMS Spam Classification](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes/raw/main/assets/sms_spam_classification.png)
+
+---
+
+### 🏦 [Credit Risk Analysis](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis)
+
+Categorizes customers into credit risk groups using machine learning models based on historical loan data and financial attributes.
+
+- 🔗 **Live App**: [credit-risk-analysis](https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/)
+
+![Credit Risk Analysis](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis/raw/main/assets/credit_risk_analysis.png)
+
+---
+
 
 ---
 
