@@ -108,8 +108,6 @@ Categorizes customers into credit risk groups using machine learning models base
 
 ### 📈 Power BI Dashboards
 
-### 📈 Power BI Dashboards
-
 - **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**  
   [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
