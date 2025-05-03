@@ -35,10 +35,10 @@ Strong grasp of **Machine Learning** and **Deep Learning** techniques with pract
 
 ## 🛠️ Technologies & Tools
 
-- **ML/DL**: Python (Scikit-learn, TensorFlow, Keras), Naive Bayes, Regression, Classification
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **SQL**: MySQL, SQL Server
-- **BI Tools**: Power BI, Streamlit, Excel, Google Sheets
+- **ML/DL**: Python (Scikit-learn, TensorFlow, Keras), Naive Bayes, Regression, Classification  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- **SQL**: MySQL, SQL Server  
+- **BI Tools**: Power BI, Streamlit, Excel, Google Sheets  
 
 ---
 
@@ -50,7 +50,11 @@ Strong grasp of **Machine Learning** and **Deep Learning** techniques with pract
 
 Predicts healthcare insurance premiums using regression models based on user features like age, BMI, and smoking status.
 
-- 🔗 **Live App**: [ml-healthcare-premium-prediction](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
+<p>
+  <a href="https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
+  </a>
+</p>
 
 ![HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction/raw/main/assets/healthcare_premium_prediction.png)
 
@@ -60,7 +64,11 @@ Predicts healthcare insurance premiums using regression models based on user fea
 
 Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Bayes and TF-IDF vectorization.
 
-- 🔗 **Live App**: [sms-spam-classification](https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/)
+<p>
+  <a href="https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
+  </a>
+</p>
 
 ![SMS Spam Classification](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes/raw/main/assets/sms_spam_classification.png)
 
@@ -70,12 +78,13 @@ Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Baye
 
 Categorizes customers into credit risk groups using machine learning models based on historical loan data and financial attributes.
 
-- 🔗 **Live App**: [credit-risk-analysis](https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/)
+<p>
+  <a href="https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
+  </a>
+</p>
 
 ![Credit Risk Analysis](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis/raw/main/assets/credit_risk_analysis.png)
-
----
-
 
 ---
 
@@ -117,8 +126,8 @@ Categorizes customers into credit risk groups using machine learning models base
 
 ## 📚 Currently Learning
 
-- Advanced ML & DL: XGBoost, CNNs, LSTMs
-- Statistical A/B Testing and Time Series Analysis
+- Advanced ML & DL: XGBoost, CNNs, LSTMs  
+- Statistical A/B Testing and Time Series Analysis  
 
 ---
 
@@ -128,7 +137,7 @@ Categorizes customers into credit risk groups using machine learning models base
 - [SQL for Data Science](https://codebasics.io/certificate/CB-50-495191) – Codebasics  
 - [Math & Stats for Data Science](https://codebasics.io/certificate/CB-63-495191) – Codebasics  
 - [Power BI Certification](https://codebasics.io/certificate/CB-49-495191) – Codebasics  
-- [Advanced Power BI Analytics](https://training.foresightbi.com.ng/certificates/rihluvmyez) – Foresight BI
+- [Advanced Power BI Analytics](https://training.foresightbi.com.ng/certificates/rihluvmyez) – Foresight BI  
 
 ---
 
