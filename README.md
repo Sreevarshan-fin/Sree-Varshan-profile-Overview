@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/sree-varshan-7ab463337/" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://github.com/user-attachments/assets/39275837-813c-449f-8e57-b07d4d960102" alt="LinkedIn" width="25" />
     <strong>LinkedIn</strong>
   </a> &nbsp;&nbsp;
