@@ -56,9 +56,6 @@ Predicts healthcare insurance premiums using regression models based on user fea
   </a>
 </p>
 
-![HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction/raw/main/assets/healthcare_premium_prediction.png)
-
----
 
 ### ✉️ [SMS Spam Classification (Naive Bayes)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)
 
@@ -70,7 +67,6 @@ Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Baye
   </a>
 </p>
 
-![SMS Spam Classification](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes/raw/main/assets/sms_spam_classification.png)
 
 ---
 
@@ -84,7 +80,6 @@ Categorizes customers into credit risk groups using machine learning models base
   </a>
 </p>
 
-![Credit Risk Analysis](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis/raw/main/assets/credit_risk_analysis.png)
 
 ---
 
@@ -113,14 +108,16 @@ Categorizes customers into credit risk groups using machine learning models base
 
 ### 📈 Power BI Dashboards
 
-- **[AtliQ Hardware Business 360](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
-  📂 [GitHub Repo](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)
+- **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**
+- (https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-- **[Foresight BI Analytics](https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
-  📂 [GitHub Repo](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)
 
-- **[Amazon E-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
-  📂 [GitHub Repo](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)
+- **[Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)**
+- (https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+- **[Amazon E-Commerce Dashboard](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)
+- (https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
+  
 
 ---
 
