@@ -83,26 +83,26 @@ Categorizes customers into credit risk groups using machine learning models base
 
 ---
 
-### 📊 Python & EDA
+### 📊 **Python & EDA Projects**
 
 - **[AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)**  
-  Performed customer segmentation, A/B testing, and credit analysis.
+  Conducted customer segmentation, A/B testing, and credit risk analysis to evaluate the performance and customer response to a credit card campaign. Provided data-driven recommendations for targeted marketing and fraud detection.
 
 - **[AtliQ Hospitality Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)**  
-  Exploratory data analysis of hotel performance data.
+  Performed exploratory data analysis (EDA) on hotel performance data, focusing on occupancy rates, customer reviews, and operational metrics to derive insights and identify areas for improvement in the hospitality industry.
 
 ---
 
-### 🧮 SQL Projects
+### 🧮 **SQL Projects**
 
 - **[Amazon E-Commerce Analysis](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)**  
-  SQL-based insights from e-commerce sales.  
- 
+  Leveraged SQL to analyze e-commerce sales data, identifying trends, customer purchasing behavior, and seasonal demand patterns. Delivered actionable insights to improve product recommendations and inventory management.
+
 - **[Ad-Hoc Analysis SQL Project](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)**  
-  Advanced querying techniques applied to business datasets.
+  Applied advanced SQL querying techniques to generate on-demand business insights from large datasets, supporting decision-making in areas such as marketing campaigns and financial forecasting.
 
 - **[Hardware Consumer Goods Analysis](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-)**  
-  SQL-driven insights on consumer goods business.
+  Conducted an in-depth SQL analysis on consumer goods sales data to uncover trends, seasonal fluctuations, and product performance metrics. Provided insights into optimizing sales strategies and inventory management for the hardware sector.
 
 ---
 
