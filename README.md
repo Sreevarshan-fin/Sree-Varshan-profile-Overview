@@ -68,7 +68,6 @@ Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Baye
 </p>
 
 
----
 
 ### 🏦 [Credit Risk Analysis](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis)
 
