@@ -44,7 +44,7 @@ Strong grasp of **Machine Learning** and **Deep Learning** techniques with pract
 
 ## 🚀 Projects
 
-## 🔬 Machine Learning Projects
+## 🔬 Machine Learning 
 
 ### 🩺 [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
 
@@ -83,7 +83,7 @@ Categorizes customers into credit risk groups using machine learning models base
 
 ---
 
-### 📊 **Python & EDA Projects**
+### 📊 **Python & EDA**
 
 - **[AtliQ Bank Credit Card Project](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)**  
   Conducted customer segmentation, A/B testing, and credit risk analysis to evaluate the performance and customer response to a credit card campaign. Provided data-driven recommendations for targeted marketing and fraud detection.
@@ -106,18 +106,20 @@ Categorizes customers into credit risk groups using machine learning models base
 
 ---
 
-### 📈 Power BI Dashboards
+### 📊 **Power BI Dashboards**
 
 - **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**  
-  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+  Comprehensive analysis of hardware business performance, including sales, inventory, and regional insights. The dashboard provides an overview of KPIs and offers actionable insights to optimize operations and maximize profits.
 
 - **[Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)**  
-  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+  Data visualization and analytics dashboard for Foresight BI, showcasing key business metrics, trends, and performance indicators. The dashboard is designed to support decision-making with interactive visualizations.
 
 - **[Amazon E-Commerce Dashboard](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)**  
-  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+  Dashboard showcasing key e-commerce performance metrics from Amazon sales data. It provides insights into sales trends, customer behavior, and inventory management to help optimize business strategies and improve decision-making.
 
----
 
 ## 📚 Currently Learning
 
