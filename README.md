@@ -56,7 +56,7 @@ To become a trusted leader in data analytics, delivering innovative, scalable, a
 
 ### 🩺 [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
 
-Predicts healthcare insurance premiums using regression models based on user features like age, BMI, and smoking status.
+Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives
 
 <p>
   <a href="https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/" target="_blank">
