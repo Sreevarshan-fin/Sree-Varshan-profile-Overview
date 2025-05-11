@@ -107,7 +107,7 @@ Categorizes customers into credit risk groups using machine learning models base
 
 Conducted customer segmentation, A/B testing, and credit risk analysis to evaluate the performance and customer response to a credit card campaign.
 
-
+-----
 
 ####   **AtliQ Hospitality Analysis**  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)
@@ -143,18 +143,45 @@ Uncovered trends and performance insights for hardware sales using SQL, helping 
 
 ## <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25"/>  Power BI Projects
 
+### 📊 Power BI Projects
 
-- **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**  
-  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-  Comprehensive analysis of hardware business performance, including sales, inventory, and regional insights. The dashboard provides an overview of KPIs and offers actionable insights to optimize operations and maximize profits.
+#### **AtliQ Hardware Business 360**  
+<p>
+  <a href="https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">
+    <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi&logoColor=black" alt="Power BI Dashboard"/>
+  </a>
+</p>
+Comprehensive analysis of hardware business performance, including sales, inventory, and regional insights. The dashboard provides an overview of KPIs and offers actionable insights to optimize operations and maximize profits.
 
-- **[Foresight BI Analytics](https://github.com/Sreevarshan-fin/Foresight-BI-Analytics)**  
-  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-  Data visualization and analytics dashboard for Foresight BI, showcasing key business metrics, trends, and performance indicators. The dashboard is designed to support decision-making with interactive visualizations.
+---
 
-- **[Amazon E-Commerce Dashboard](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)**  
-  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-  Dashboard showcasing key e-commerce performance metrics from Amazon sales data. It provides insights into sales trends, customer behavior, and inventory management to help optimize business strategies and improve decision-making.
+#### **Foresight BI Analytics**  
+<p>
+  <a href="https://github.com/Sreevarshan-fin/Foresight-BI-Analytics">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYmYwZmY2MDctYzkwZi00ZWZmLWJiZjItNDA0NzY0YjdhNWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">
+    <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi&logoColor=black" alt="Power BI Dashboard"/>
+  </a>
+</p>
+Data visualization and analytics dashboard for Foresight BI, showcasing key business metrics, trends, and performance indicators. The dashboard is designed to support decision-making with interactive visualizations.
+
+---
+
+#### **Amazon E-Commerce Dashboard**  
+<p>
+  <a href="https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">
+    <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi&logoColor=black" alt="Power BI Dashboard"/>
+  </a>
+</p>
+Dashboard showcasing key e-commerce performance metrics from Amazon sales data. It provides insights into sales trends, customer behavior, and inventory management to help optimize business strategies and improve decision-making.
+
 
 
 ## 📚 Currently Learning
