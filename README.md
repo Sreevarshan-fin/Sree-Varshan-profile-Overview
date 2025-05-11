@@ -190,14 +190,13 @@ Dashboard showcasing key e-commerce performance metrics from Amazon sales data. 
 - Statistical A/B Testing and Time Series Analysis  
 
 ---
-
 ## 🎓 Certifications
 
-- [Python for Data Science](https://codebasics.io/certificate/CB-48-495191) – Codebasics  
-- [SQL for Data Science](https://codebasics.io/certificate/CB-50-495191) – Codebasics  
-- [Math & Stats for Data Science](https://codebasics.io/certificate/CB-63-495191) – Codebasics  
-- [Power BI Certification](https://codebasics.io/certificate/CB-49-495191) – Codebasics  
-- [Advanced Power BI Analytics](https://training.foresightbi.com.ng/certificates/rihluvmyez) – Foresight BI  
+[![Python for Data Science](https://img.shields.io/badge/Python%20for%20Data%20Science-blue?logo=python&logoColor=white)](https://codebasics.io/certificate/CB-48-495191)  
+[![SQL for Data Science](https://img.shields.io/badge/SQL%20for%20Data%20Science-blue?logo=postgresql&logoColor=white)](https://codebasics.io/certificate/CB-50-495191)  
+[![Math & Stats for Data Science](https://img.shields.io/badge/Math%20%26%20Stats%20for%20Data%20Science-blue?logo=math&logoColor=white)](https://codebasics.io/certificate/CB-63-495191)  
+[![Power BI Certification](https://img.shields.io/badge/Power%20BI%20Certification-blue?logo=powerbi&logoColor=white)](https://codebasics.io/certificate/CB-49-495191)  
+[![Advanced Power BI Analytics](https://img.shields.io/badge/Advanced%20Power%20BI%20Analytics-blue?logo=powerbi&logoColor=white)](https://training.foresightbi.com.ng/certificates/rihluvmyez)
 
 ---
 
