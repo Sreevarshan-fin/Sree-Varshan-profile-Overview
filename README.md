@@ -185,10 +185,12 @@ Dashboard showcasing key e-commerce performance metrics from Amazon sales data. 
 ---
 
 ## 🎓 Certifications
+---
+## 🎓 Certifications
 
 | Python for Data Science | SQL for Data Science | Math & Stats for Data Science | Power BI Certification | Advanced Power BI Analytics |
 |-------------------------|----------------------|------------------------------|------------------------|-----------------------------|
-| [![Python for Data Science](https://upload.wikimedia.org/wikipedia/commons/1/19/Python_logo_2020.svg)](https://codebasics.io/certificate/CB-48-495191) | [![SQL for Data Science](https://upload.wikimedia.org/wikipedia/commons/9/99/Postgresql_elephant.svg)](https://codebasics.io/certificate/CB-50-495191) | [![Math & Stats for Data Science](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mathematics_logo.svg/120px-Mathematics_logo.svg.png)](https://codebasics.io/certificate/CB-63-495191) | [![Power BI Certification](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Microsoft_Power_BI_logo.svg/1024px-Microsoft_Power_BI_logo.svg.png)](https://codebasics.io/certificate/CB-49-495191) | [![Advanced Power BI Analytics](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Microsoft_Power_BI_logo.svg/1024px-Microsoft_Power_BI_logo.svg.png)](https://training.foresightbi.com.ng/certificates/rihluvmyez) |
+| [![Python for Data Science](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.svg)](https://codebasics.io/certificate/CB-48-495191) | [![SQL for Data Science](https://upload.wikimedia.org/wikipedia/commons/4/47/Postgresql_logo_2015.svg)](https://codebasics.io/certificate/CB-50-495191) | [![Math & Stats for Data Science](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Math_logo.svg/500px-Math_logo.svg.png)](https://codebasics.io/certificate/CB-63-495191) | [![Power BI Certification](https://upload.wikimedia.org/wikipedia/commons/1/1c/Microsoft_Power_BI_logo.svg)](https://codebasics.io/certificate/CB-49-495191) | [![Advanced Power BI Analytics](https://upload.wikimedia.org/wikipedia/commons/1/1c/Microsoft_Power_BI_logo.svg)](https://training.foresightbi.com.ng/certificates/rihluvmyez) |
 
 
 
