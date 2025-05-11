@@ -55,41 +55,42 @@ To become a trusted leader in data analytics, delivering innovative, scalable, a
 ## 🔬 Machine Learning
 
 ### 🩺 HealthCare Insurance Premium Prediction
-[GitHub Repo](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
 
 Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives.
 
 <p align="center">
   <a href="https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit Launch App" width="150"/>
   </a>
 </p>
 
 ---
 
 ### ✉️ SMS Spam Classification (Naive Bayes)
-[GitHub Repo](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)
 
 Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Bayes and TF-IDF vectorization.
 
 <p align="center">
   <a href="https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit Launch App" width="150"/>
   </a>
 </p>
 
 ---
 
 ### 🏦 Credit Risk Analysis
-[GitHub Repo](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis)
 
 Categorizes customers into credit risk groups using machine learning models based on historical loan data and financial attributes.
 
 <p align="center">
   <a href="https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit Launch App" width="150"/>
   </a>
 </p>
+
 
 
 
