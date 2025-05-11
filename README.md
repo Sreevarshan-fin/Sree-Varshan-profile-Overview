@@ -52,79 +52,74 @@ To become a trusted leader in data analytics, delivering innovative, scalable, a
 
 ## 🚀 Projects
 
-##  Machine Learning
+---
 
-####  **HealthCare Insurance Premium Prediction**
+## 🤖 Machine Learning <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="25"/>
 
+#### 🩺 HealthCare Insurance Premium Prediction  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction) 
 [![Launch App](https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white)](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
 
-Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives.
-
-
-
+Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors.
 
 ---
 
-####   **SMS Spam Classification (Naive Bayes)**
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes) 
+#### ✉️ SMS Spam Classification (Naive Bayes)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)  
 [![Launch App](https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white)](https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/)
 
 Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Bayes and TF-IDF vectorization.
 
-
 ---
 
-#### **Credit Risk Analysis**
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis) 
+#### 🏦 Credit Risk Analysis  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis)  
 [![Launch App](https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white)](https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/)
 
 Categorizes customers into credit risk groups using machine learning models based on historical loan data and financial attributes.
 
-
-
-
 ---
 
+## 🐍 Python & EDA <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="25"/>
 
-
-###   Python & EDA
-
-#### **AtliQ Bank Credit Card Project**
+#### 💳 AtliQ Bank Credit Card Project  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)
 
-Conducted customer segmentation, A/B testing, and credit risk analysis to evaluate the performance and customer response to a credit card campaign. Provided data-driven recommendations for targeted marketing and fraud detection.
+Conducted customer segmentation, A/B testing, and credit risk analysis to evaluate the performance and customer response to a credit card campaign.
 
 ---
 
-####   **AtliQ Hospitality Analysis**
+#### 🏨 AtliQ Hospitality Analysis  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/AtliQ-Hospitality-Analysis)
 
-Performed exploratory data analysis (EDA) on hotel performance data, focusing on occupancy rates, customer reviews, and operational metrics to derive insights and identify areas for improvement in the hospitality industry.
-
+Performed EDA on hotel performance data, focusing on occupancy rates, customer reviews, and operational metrics to identify areas for improvement.
 
 ---
 
-###  SQL Projects
+## 🧮 SQL Projects <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="25"/>
 
-####  **Amazon E-Commerce Analysis**
+#### 🛍️ Amazon E-Commerce Analysis  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)
 
-Leveraged SQL to analyze e-commerce sales data, identifying trends, customer purchasing behavior, and seasonal demand patterns. Delivered actionable insights to improve product recommendations and inventory management.
+Analyzed e-commerce data to understand customer behavior and seasonal trends, enhancing recommendations and stock management.
 
 ---
 
-####   **Ad-Hoc Analysis SQL Project**
+#### 📈 Ad-Hoc Analysis SQL Project  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)
 
-Applied advanced SQL querying techniques to generate on-demand business insights from large datasets, supporting decision-making in areas such as marketing campaigns and financial forecasting.
+Generated on-demand business insights through complex SQL queries, supporting marketing and forecasting initiatives.
 
 ---
 
-####   **Consumer Goods Analysis**
+#### 🧰 Consumer Goods Analysis  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Consumer-Goods-Analysis-FY2020-2021-)
 
-Conducted an in-depth SQL analysis on consumer goods sales data to uncover trends, seasonal fluctuations, and product performance metrics. Provided insights into optimizing sales strategies and inventory management for the hardware sector.
+Uncovered trends and performance insights for hardware sales using SQL, helping optimize inventory and seasonal promotions.
+
+---
+
+## 📊 Power BI Projects <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25"/> *(Coming Soon or Add Below if Ready)*  
 
 ---
 
