@@ -52,38 +52,45 @@ To become a trusted leader in data analytics, delivering innovative, scalable, a
 
 ## 🚀 Projects
 
-## 🔬 Machine Learning 
+## 🔬 Machine Learning
 
-### 🩺 [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction) <p>
+### 🩺 HealthCare Insurance Premium Prediction
+[GitHub Repo](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
+
+Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives.
+
+<p align="center">
   <a href="https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
   </a>
 </p>
 
-Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives.
+---
 
-
-### ✉️ [SMS Spam Classification (Naive Bayes)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)
+### ✉️ SMS Spam Classification (Naive Bayes)
+[GitHub Repo](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)
 
 Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Bayes and TF-IDF vectorization.
 
-<p>
+<p align="center">
   <a href="https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
   </a>
 </p>
 
+---
 
-
-### 🏦 [Credit Risk Analysis](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis)
+### 🏦 Credit Risk Analysis
+[GitHub Repo](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis)
 
 Categorizes customers into credit risk groups using machine learning models based on historical loan data and financial attributes.
 
-<p>
+<p align="center">
   <a href="https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
   </a>
 </p>
+
 
 
 ---
