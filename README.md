@@ -56,13 +56,14 @@ To become a trusted leader in data analytics, delivering innovative, scalable, a
 
 ### 🩺 [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
 
-Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives
+Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives.
 
-<p>
+<p align="center">
   <a href="https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
   </a>
 </p>
+
 
 
 ### ✉️ [SMS Spam Classification (Naive Bayes)](https://github.com/Sreevarshan-fin/SMS-Spam-Classification-Using-Naive-Bayes)
