@@ -55,15 +55,15 @@ To become a trusted leader in data analytics, delivering innovative, scalable, a
 ## 🔬 Machine Learning
 
 ### 🩺 HealthCare Insurance Premium Prediction
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
-
-Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives.
-
-<p align="center">
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction) <p>
   <a href="https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit Launch App" width="150"/>
   </a>
 </p>
+
+Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives.
+
+
 
 ---
 
