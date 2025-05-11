@@ -185,12 +185,10 @@ Dashboard showcasing key e-commerce performance metrics from Amazon sales data. 
 ---
 
 ## 🎓 Certifications
----
-## 🎓 Certifications
 
 | Python for Data Science | SQL for Data Science | Math & Stats for Data Science | Power BI Certification | Advanced Power BI Analytics |
 |-------------------------|----------------------|------------------------------|------------------------|-----------------------------|
-| [![Python for Data Science](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.svg)](https://codebasics.io/certificate/CB-48-495191) | [![SQL for Data Science](https://upload.wikimedia.org/wikipedia/commons/4/47/Postgresql_logo_2015.svg)](https://codebasics.io/certificate/CB-50-495191) | [![Math & Stats for Data Science](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Math_logo.svg/500px-Math_logo.svg.png)](https://codebasics.io/certificate/CB-63-495191) | [![Power BI Certification](https://upload.wikimedia.org/wikipedia/commons/1/1c/Microsoft_Power_BI_logo.svg)](https://codebasics.io/certificate/CB-49-495191) | [![Advanced Power BI Analytics](https://upload.wikimedia.org/wikipedia/commons/1/1c/Microsoft_Power_BI_logo.svg)](https://training.foresightbi.com.ng/certificates/rihluvmyez) |
+| [![Python for Data Science](https://img.icons8.com/ios/452/python.png)](https://codebasics.io/certificate/CB-48-495191) | [![SQL for Data Science](https://img.icons8.com/ios/452/sql.png)](https://codebasics.io/certificate/CB-50-495191) | [![Math & Stats for Data Science](https://img.icons8.com/ios/452/math.png)](https://codebasics.io/certificate/CB-63-495191) | [![Power BI Certification](https://img.icons8.com/ios/452/power-bi.png)](https://codebasics.io/certificate/CB-49-495191) | [![Advanced Power BI Analytics](https://img.icons8.com/ios/452/power-bi.png)](https://training.foresightbi.com.ng/certificates/rihluvmyez) |
 
 
 
