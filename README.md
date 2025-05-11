@@ -56,10 +56,18 @@ To become a trusted leader in data analytics, delivering innovative, scalable, a
 
 ##  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="25"/> Machine Learning
 
-####  **HealthCare Insurance Premium Prediction** 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction) 
-[![Launch App](https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white)](https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/)
+####  **HealthCare Insurance Premium Prediction**  
+<p>
+  <a href="https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+  <a href="https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/">
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit App"/>
+  </a>
+</p>
+
 Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors.
+
 
 -----
 
@@ -78,10 +86,17 @@ Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Baye
 -----
 
 ####   **Credit Risk Analysis**  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/Credit-Risk-Analysis)  
-[![Launch App](https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white)](https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/)
+<p>
+  <a href="https://github.com/Sreevarshan-fin/Credit-Risk-Analysis">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+  <a href="https://credit-risk-analysis-jj3vtj43niyqoxbokhujxx.streamlit.app/">
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit App"/>
+  </a>
+</p>
 
 Categorizes customers into credit risk groups using machine learning models based on historical loan data and financial attributes.
+
 
 ----
 
@@ -109,13 +124,14 @@ Performed EDA on hotel performance data, focusing on occupancy rates, customer r
 
 Analyzed e-commerce data to understand customer behavior and seasonal trends, enhancing recommendations and stock management.
 
-
+-----
 
 #### **Ad-Hoc Analysis SQL Project**  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/SQL-Project-Ad-Hoc-Analysis)
 
 Generated on-demand business insights through complex SQL queries, supporting marketing and forecasting initiatives.
 
+----
 
 
 ####  **Consumer Goods Analysis**  
