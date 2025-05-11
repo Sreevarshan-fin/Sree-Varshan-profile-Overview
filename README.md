@@ -54,11 +54,15 @@ To become a trusted leader in data analytics, delivering innovative, scalable, a
 
 ## 🔬 Machine Learning 
 
-### 🩺 [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction)
+### 🩺 [HealthCare Insurance Premium Prediction](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction) <p>
+  <a href="https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
+  </a>
+</p>
 
 Developed a machine learning model to predict insurance premiums based on customer features like age, BMI, and smoking status. Implemented a segmentation-based approach using XGBoost, achieving over 99% accuracy and minimizing extreme errors, meeting business objectives.
 
-<p align="center">
+<p>
   <a href="https://ml-healthcare-premium-prediction-7qrpw78zqct4zhdm7u8v2d.streamlit.app/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit App" width="120"/>
   </a>
