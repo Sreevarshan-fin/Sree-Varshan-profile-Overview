@@ -80,8 +80,8 @@ Developed a machine learning model to predict insurance premiums based on custom
     <img src="https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit App"/>
   </a>
 </p>
-
-Classifies SMS messages as **Spam** or **Not Spam** using Multinomial Naive Bayes and TF-IDF vectorization.
+Built a real-time SMS spam detection system using the Naive Bayes algorithm.
+Achieved 99% accuracy with strong precision-recall for both spam and ham messages.
 
 -----
 
