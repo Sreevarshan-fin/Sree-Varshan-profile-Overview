@@ -179,6 +179,16 @@ Data visualization and analytics dashboard for Foresight BI, showcasing key busi
   <a href="https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">
     <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi&logoColor=black" alt="Power BI Dashboard"/>
   </a>
+  
+  ---
+
+  
+## 🎓 Certifications
+
+| Python for Data Science | SQL for Data Science | Math & Stats for Data Science | Power BI Certification | Advanced Power BI Analytics |
+|-------------------------|----------------------|------------------------------|------------------------|-----------------------------|
+| [![Python for Data Science](https://img.shields.io/badge/Python%20for%20Data%20Science-blue?logo=python&logoColor=white)](https://codebasics.io/certificate/CB-48-495191) | [![SQL for Data Science](https://img.shields.io/badge/SQL%20for%20Data%20Science-blue?logo=postgresql&logoColor=white)](https://codebasics.io/certificate/CB-50-495191) | [![Math & Stats for Data Science](https://img.shields.io/badge/Math%20%26%20Stats%20for%20Data%20Science-blue?logo=math&logoColor=white)](https://codebasics.io/certificate/CB-63-495191) | [![Power BI Certification](https://img.shields.io/badge/Power%20BI%20Certification-blue?logo=powerbi&logoColor=white)](https://codebasics.io/certificate/CB-49-495191) | [![Advanced Power BI Analytics](https://img.shields.io/badge/Advanced%20Power%20BI%20Analytics-blue?logo=powerbi&logoColor=white)](https://training.foresightbi.com.ng/certificates/rihluvmyez) |
+
 </p>
 Dashboard showcasing key e-commerce performance metrics from Amazon sales data. It provides insights into sales trends, customer behavior, and inventory management to help optimize business strategies and improve decision-making.
 
@@ -189,16 +199,7 @@ Dashboard showcasing key e-commerce performance metrics from Amazon sales data. 
 - Advanced ML & DL: XGBoost, CNNs, LSTMs  
 - Statistical A/B Testing and Time Series Analysis  
 
----
-## 🎓 Certifications
 
-[![Python for Data Science](https://img.shields.io/badge/Python%20for%20Data%20Science-blue?logo=python&logoColor=white)](https://codebasics.io/certificate/CB-48-495191)  
-[![SQL for Data Science](https://img.shields.io/badge/SQL%20for%20Data%20Science-blue?logo=postgresql&logoColor=white)](https://codebasics.io/certificate/CB-50-495191)  
-[![Math & Stats for Data Science](https://img.shields.io/badge/Math%20%26%20Stats%20for%20Data%20Science-blue?logo=math&logoColor=white)](https://codebasics.io/certificate/CB-63-495191)  
-[![Power BI Certification](https://img.shields.io/badge/Power%20BI%20Certification-blue?logo=powerbi&logoColor=white)](https://codebasics.io/certificate/CB-49-495191)  
-[![Advanced Power BI Analytics](https://img.shields.io/badge/Advanced%20Power%20BI%20Analytics-blue?logo=powerbi&logoColor=white)](https://training.foresightbi.com.ng/certificates/rihluvmyez)
-
----
 
 <p align="center"><strong>Let's connect and build data-driven solutions together!</strong></p>
 
