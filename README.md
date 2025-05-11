@@ -186,7 +186,7 @@ Dashboard showcasing key e-commerce performance metrics from Amazon sales data. 
 
 ## 🎓 Certifications
 
-| Python for Data Science | SQL for Data Science | Math & Stats for Data Science | Power BI Certification | 
+| Python for Data Science | SQL  | Math & Stats for Data Science | Power BI | 
 |-------------------------|----------------------|------------------------------|------------------------|
 | [![Python for Data Science](https://img.icons8.com/color/48/000000/python.png)](https://codebasics.io/certificate/CB-48-495191) | [![SQL for Data Science](https://img.icons8.com/color/48/000000/sql.png)](https://codebasics.io/certificate/CB-50-495191) | [![Math & Stats for Data Science](https://img.icons8.com/color/48/000000/math.png)](https://codebasics.io/certificate/CB-63-495191) | [![Power BI Certification](https://img.icons8.com/color/48/000000/power-bi.png)](https://codebasics.io/certificate/CB-49-495191) |
 ## 📚 Currently Learning
