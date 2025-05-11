@@ -54,7 +54,7 @@ To become a trusted leader in data analytics, delivering innovative, scalable, a
 
 ---
 
-## 🤖 Machine Learning <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="25"/>
+##  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="25"/> Machine Learning
 
 #### 🩺 HealthCare Insurance Premium Prediction  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/HealthCare-Insurance-Premium-Prediction) 
@@ -80,7 +80,7 @@ Categorizes customers into credit risk groups using machine learning models base
 
 ---
 
-## 🐍 Python & EDA <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="25"/>
+##  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="25"/> Python & EDA 
 
 #### 💳 AtliQ Bank Credit Card Project  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/AtliQ-Bank--Credit-Card-Project)
@@ -96,7 +96,7 @@ Performed EDA on hotel performance data, focusing on occupancy rates, customer r
 
 ---
 
-## 🧮 SQL Projects <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="25"/>
+## <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="25"/>  SQL Projects
 
 #### 🛍️ Amazon E-Commerce Analysis  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/Sreevarshan-fin/SQL-Project---Amazon-E-Commerce)
@@ -119,11 +119,8 @@ Uncovered trends and performance insights for hardware sales using SQL, helping 
 
 ---
 
-## 📊 Power BI Projects <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25"/> *(Coming Soon or Add Below if Ready)*  
+## <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25"/>  Power BI Projects
 
----
-
-### 📊 **Power BI Dashboards**
 
 - **[AtliQ Hardware Business 360](https://github.com/Sreevarshan-fin/AtliQ-Hardware-Business-360)**  
   [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Live App" title="View Power BI Dashboard" width="40"/>](https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
