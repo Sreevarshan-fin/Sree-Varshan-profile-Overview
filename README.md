@@ -16,7 +16,7 @@ My toolkit includes Python, SQL, and Power BI. On my GitHub, you'll find machine
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **AI & Machine Learning:**  
 • Machine Learning • Deep Learning (DL) • Computer Vision (CV) • NLP • RAG • LLMs  
