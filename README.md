@@ -16,9 +16,17 @@ My toolkit includes Python, SQL, and Power BI. On my GitHub, you'll find machine
 ---
 
 
+## 🛠️ Tech Stack
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170" />
-</p>
+**AI & Machine Learning:**  
+• Machine Learning • Deep Learning (DL) • Computer Vision (CV) • NLP • RAG • LLMs  
+
+**Programming Languages:**  
+) • Python • SQL  
+
+**Tools & Platforms:**  
+ • Power BI • Excel • Jupyter Notebook • VS Code • GitHub • Agno • n8n • TSM  
+
+**Libraries & Frameworks:**  
+ • scikit-learn • PyTorch • TensorFlow • OpenCV • NumPy • Pandas • Matplotlib • Seaborn
+
