@@ -22,10 +22,10 @@ My toolkit includes Python, SQL, and Power BI. On my GitHub, you'll find machine
 • Machine Learning • Deep Learning (DL) • Computer Vision (CV) • NLP • RAG • LLMs  
 
 **Programming Languages:**  
-) • Python • SQL  
+• Python • SQL  
 
 **Tools & Platforms:**  
- • Power BI • Excel • Jupyter Notebook • VS Code • GitHub • Agno • n8n • TSM  
+• Power BI • Excel • Jupyter Notebook • VS Code • GitHub • Agno • n8n • TSM  
 
 **Libraries & Frameworks:**  
  • scikit-learn • PyTorch • TensorFlow • OpenCV • NumPy • Pandas • Matplotlib • Seaborn
