@@ -31,10 +31,6 @@ My toolkit includes Python, SQL, and Power BI. On my GitHub, you'll find machine
  • scikit-learn • PyTorch • TensorFlow • OpenCV • NumPy • Pandas • Matplotlib • Seaborn
 
 
-
-
-## ⚡ Tech Stack
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=google&logoColor=white"/> 
