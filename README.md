@@ -30,3 +30,14 @@ My toolkit includes Python, SQL, and Power BI. On my GitHub, you'll find machine
 **Libraries & Frameworks:**  
  • scikit-learn • PyTorch • TensorFlow • OpenCV • NumPy • Pandas • Matplotlib • Seaborn
 
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+</p>
+
