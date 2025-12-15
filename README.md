@@ -5,16 +5,6 @@
 
 ---
 
-# **Hey, I'm Sree Varshan!**
-
-I'm really into AI and data science—I love building intelligent systems and solving problems with data.
-
-I spend most of my time creating machine learning models, working with computer vision and natural language processing, and lately I've been diving deep into large language models and RAG pipelines. There's something satisfying about taking raw data and turning it into something that actually works and makes an impact.
-
-My toolkit includes Python, SQL, and Power BI. On my GitHub, you'll find machine learning projects and Power BI dashboards—basically whatever problem I'm trying to solve at the moment.
-
----
-
 
 ##  Tech Stack
 
