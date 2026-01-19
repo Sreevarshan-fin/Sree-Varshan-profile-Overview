@@ -37,7 +37,6 @@ I’m motivated by building AI solutions that create measurable impact—helping
   Building AI systems grounded in statistics, designed for real-world decision-making.
 </p>
 
-------
 
 
 ----------------
