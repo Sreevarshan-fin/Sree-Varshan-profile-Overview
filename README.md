@@ -6,19 +6,6 @@
 ---
 
 
-##  Tech Stack
-
-**AI & Machine Learning:**  
-• Machine Learning • Deep Learning (DL) • Computer Vision (CV) • NLP • RAG • LLMs  
-
-**Programming Languages:**  
-• Python • SQL  
-
-**Tools & Platforms:**  
-• Power BI • Excel • Jupyter Notebook • VS Code • GitHub • Agno • n8n • TSM  
-
-**Libraries & Frameworks:**  
- • scikit-learn • PyTorch • TensorFlow • OpenCV • NumPy • Pandas • Matplotlib • Seaborn
 
 
 <div align="center">
