@@ -1,0 +1,41 @@
+<svg width="720" height="140" viewBox="0 0 720 140"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="0" y="0" width="720" height="140" rx="12"
+        fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Nodes -->
+  <g font-family="Inter, system-ui" font-size="12" fill="#e6edf3">
+
+    <rect x="20" y="45" width="110" height="40" rx="8" fill="#161b22"/>
+    <text x="75" y="70" text-anchor="middle">Business Input</text>
+
+    <rect x="150" y="45" width="110" height="40" rx="8" fill="#161b22"/>
+    <text x="205" y="70" text-anchor="middle">Data Ingestion</text>
+
+    <rect x="280" y="45" width="120" height="40" rx="8" fill="#161b22"/>
+    <text x="340" y="70" text-anchor="middle">ML / DL Models</text>
+
+    <rect x="420" y="45" width="120" height="40" rx="8" fill="#161b22"/>
+    <text x="480" y="70" text-anchor="middle">LLM / RAG Logic</text>
+
+    <rect x="560" y="45" width="140" height="40" rx="8" fill="#161b22"/>
+    <text x="630" y="70" text-anchor="middle">Decision Output</text>
+  </g>
+
+  <!-- Arrows -->
+  <g stroke="#2ea043" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M130 65 H150"/>
+    <path d="M260 65 H280"/>
+    <path d="M400 65 H420"/>
+    <path d="M540 65 H560"/>
+  </g>
+
+  <!-- Footer -->
+  <text x="360" y="115" text-anchor="middle"
+        fill="#8b949e" font-size="11"
+        font-family="Inter, system-ui">
+    End-to-end AI systems designed for real-world decision-making
+  </text>
+
+</svg>
