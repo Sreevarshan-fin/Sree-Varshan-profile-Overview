@@ -29,11 +29,6 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 </div>
 
 
-<p align="center">
-  Building AI systems grounded in statistics, designed for real-world decision-making.
-</p>
-
-
 
 ----------------
 
