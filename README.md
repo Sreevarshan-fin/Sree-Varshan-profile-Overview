@@ -2,7 +2,9 @@
   <img src="https://github.com/user-attachments/assets/bd8711e3-8971-4217-89e5-6226c502efdb" alt="Banner" width="150%" />
 </p>
 
-<img src="assets/banner.svg" width="100%" alt="ML & GenAI Systems Banner" />
+<div align="center">
+  <img src="assets/banner.svg" width="820" alt="AI System Flow"/>
+</div>
 
 
 
