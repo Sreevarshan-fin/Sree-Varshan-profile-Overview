@@ -34,7 +34,6 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 
 
 <!-- Focus Distribution & Contributions -->
-
 <table align="center">
   <tr>
     <!-- Left: Focus Distribution -->
@@ -59,6 +58,7 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
     </td>
   </tr>
 </table>
+
 
 
 
