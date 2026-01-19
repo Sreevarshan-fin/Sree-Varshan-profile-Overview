@@ -21,18 +21,24 @@
   <rect x="0" y="0" width="900" height="200" rx="16"
         fill="url(#bg)" stroke="#30363d"/>
 
-  <!-- Headline -->
+  <!-- Headline (GREEN) -->
   <text x="450" y="78"
         text-anchor="middle"
-        fill="#e6edf3"
+        fill="#2ea043"
         font-size="42"
         font-family="Inter, system-ui, -apple-system"
         font-weight="500">
     Hi, I’m Sree Varshan
   </text>
 
+  <!-- Red connector line -->
+  <line x1="330" y1="92" x2="570" y2="92"
+        stroke="#f85149"
+        stroke-width="2"
+        stroke-linecap="round"/>
+
   <!-- Subheading -->
-  <text x="450" y="108"
+  <text x="450" y="115"
         text-anchor="middle"
         fill="#9da7b1"
         font-size="16"
@@ -56,11 +62,9 @@
     <text x="685" y="159" text-anchor="middle">Decision Output</text>
   </g>
 
-  <!-- Connectors -->
+  <!-- Pipeline connectors (green glow) -->
   <g stroke="#2ea043" stroke-width="2.2" stroke-linecap="round" filter="url(#glow)">
     <line x1="250" y1="154" x2="270" y2="154"/>
     <line x1="400" y1="154" x2="420" y2="154"/>
     <line x1="570" y1="154" x2="590" y2="154"/>
-  </g>
-
-</svg>
+  <
