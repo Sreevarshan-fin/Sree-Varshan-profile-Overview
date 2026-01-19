@@ -33,6 +33,16 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 ----------------
 
 
+
+Your table **must be plain HTML**, not inside any code fence.
+
+---
+
+## ✅ CORRECT README STRUCTURE (COPY–PASTE EXACTLY)
+
+Paste this **directly into README.md** with **no backticks above or below**:
+
+```html
 <!-- Focus Distribution & Contributions -->
 <table align="center">
   <tr>
@@ -58,6 +68,7 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
     </td>
   </tr>
 </table>
+
 
 
 
