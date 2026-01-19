@@ -1,46 +1,49 @@
-<svg width="360" height="140" viewBox="0 0 360 140"
+<svg width="180" height="180" viewBox="0 0 180 180"
      xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background -->
-  <rect x="0" y="0" width="360" height="140" rx="12"
-        fill="#0d1117" stroke="#30363d"/>
+  <!-- Background Circle -->
+  <circle cx="90" cy="90" r="84"
+          fill="#0d1117"
+          stroke="#30363d"
+          stroke-width="2"/>
 
-  <!-- Title -->
-  <text x="20" y="28"
-        fill="#58a6ff"
-        font-size="15"
-        font-family="Arial"
-        font-weight="bold">
-    GitHub Activity
-  </text>
-
-  <!-- Time Range -->
-  <text x="20" y="46"
-        fill="#8b949e"
-        font-size="12"
-        font-family="Arial">
-    Jan 2025 – Present
-  </text>
+  <!-- Progress Ring (soft, not loud) -->
+  <circle cx="90" cy="90" r="68"
+          fill="none"
+          stroke="#2ea043"
+          stroke-width="6"
+          stroke-dasharray="430"
+          stroke-dashoffset="90"
+          stroke-linecap="round"
+          transform="rotate(-90 90 90)"/>
 
   <!-- Main Stat -->
-  <text x="20" y="86"
-        fill="#c9d1d9"
-        font-size="34"
-        font-family="Arial"
-        font-weight="bold">
+  <text x="90" y="88"
+        text-anchor="middle"
+        fill="#e6edf3"
+        font-size="36"
+        font-weight="400"
+        font-family="Inter, system-ui, -apple-system">
     ~600
   </text>
 
   <!-- Label -->
-  <text x="20" y="110"
+  <text x="90" y="108"
+        text-anchor="middle"
         fill="#8b949e"
-        font-size="13"
-        font-family="Arial">
+        font-size="12"
+        font-family="Inter, system-ui, -apple-system">
     Contributions
   </text>
 
-  <!-- Right-side Accent Bar -->
-  <rect x="300" y="20" width="8" height="100" rx="4"
-        fill="#2ea043"/>
+  <!-- Timeline -->
+  <text x="90" y="128"
+        text-anchor="middle"
+        fill="#6e7681"
+        font-size="11"
+        font-family="Inter, system-ui, -apple-system">
+    Jan 2025 – Present
+  </text>
 
 </svg>
+
