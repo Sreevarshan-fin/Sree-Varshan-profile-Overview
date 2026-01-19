@@ -33,39 +33,7 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 ----------------
 
 
-<div style="width:360px;background:#0d1117;border:1px solid #30363d;
-            border-radius:10px;padding:16px;font-family:Arial;color:#c9d1d9;">
+## 📊 Focus Distribution (Jan 09, 2025 – Present)
 
-  <h4 style="margin-top:0;color:#f85149;">Most Used Domains</h4>
+<img src="assets/most-used-domains.svg" />
 
-  <!-- Python -->
-  <div style="margin-bottom:12px;">
-    <div style="display:flex;justify-content:space-between;">
-      <span>Python</span><span>65%</span>
-    </div>
-    <div style="background:#30363d;border-radius:6px;height:10px;">
-      <div style="width:65%;background:#3776AB;height:10px;border-radius:6px;"></div>
-    </div>
-  </div>
-
-  <!-- SQL -->
-  <div style="margin-bottom:12px;">
-    <div style="display:flex;justify-content:space-between;">
-      <span>SQL</span><span>20%</span>
-    </div>
-    <div style="background:#30363d;border-radius:6px;height:10px;">
-      <div style="width:20%;background:#025E8C;height:10px;border-radius:6px;"></div>
-    </div>
-  </div>
-
-  <!-- RAG Engineering -->
-  <div>
-    <div style="display:flex;justify-content:space-between;">
-      <span>RAG Engineering</span><span>15%</span>
-    </div>
-    <div style="background:#30363d;border-radius:6px;height:10px;">
-      <div style="width:15%;background:#1ABC9C;height:10px;border-radius:6px;"></div>
-    </div>
-  </div>
-
-</div>
