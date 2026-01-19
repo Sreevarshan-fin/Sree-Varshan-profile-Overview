@@ -39,7 +39,7 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
     <!-- Left: Focus Distribution -->
     <td align="center" valign="top">
       <img
-        src="assets/most-used-domains.svg"
+        src="assets/focus-distribution.svg"
         width="360"
         alt="Focus Distribution (Jan 2025 – Present)"
       />
@@ -58,6 +58,7 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
     </td>
   </tr>
 </table>
+
 
 
 
