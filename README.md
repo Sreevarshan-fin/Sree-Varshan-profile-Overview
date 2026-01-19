@@ -40,31 +40,16 @@ Your table **must be plain HTML**, not inside any code fence.
 
 ## ✅ CORRECT README STRUCTURE (COPY–PASTE EXACTLY)
 
-Paste this **directly into README.md** with **no backticks above or below**:
-
-```html
-<!-- Focus Distribution & Contributions -->
 <table align="center">
   <tr>
-    <!-- Left: Focus Distribution -->
     <td align="center" valign="top">
-      <img
-        src="assets/most-used-domains.svg"
-        width="360"
-        alt="Focus Distribution (Jan 2025 – Present)"
-      />
+      <img src="assets/most-used-domains.svg" width="360" />
     </td>
 
-    <!-- Spacer -->
     <td width="24"></td>
 
-    <!-- Right: Contributions -->
     <td align="center" valign="top">
-      <img
-        src="assets/contributions.svg"
-        width="180"
-        alt="GitHub Contributions (Jan 2025 – Present)"
-      />
+      <img src="assets/contributions.svg" width="180" />
     </td>
   </tr>
 </table>
