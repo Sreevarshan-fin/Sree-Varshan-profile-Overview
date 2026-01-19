@@ -5,6 +5,7 @@
 
 ---
 
+
 I work on designing machine learning and generative AI systems that turn business problems into decision-ready outputs.
 
 My approach starts with understanding the business context and the decisions that need to be supported, then building structured ML and LLM workflows that move from data ingestion to prediction, reasoning, and insight delivery. Rather than focusing on individual models or tools, I focus on how components fit together to produce reliable and usable outcomes.
@@ -17,6 +18,7 @@ I’m motivated by building AI solutions that create measurable impact—helping
 
 
 ```
+
 
 <div align="center">
 
@@ -35,3 +37,5 @@ I’m motivated by building AI solutions that create measurable impact—helping
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
+
+
