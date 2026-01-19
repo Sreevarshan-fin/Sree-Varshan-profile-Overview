@@ -33,13 +33,6 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 ----------------
 
 
-
-Your table **must be plain HTML**, not inside any code fence.
-
----
-
-## ✅ CORRECT README STRUCTURE (COPY–PASTE EXACTLY)
-
 <table align="center">
   <tr>
     <td align="center" valign="top">
