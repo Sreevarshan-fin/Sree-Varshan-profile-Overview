@@ -4,18 +4,11 @@
 
 
 ---
-
-<p align="center">
-I design machine learning and generative AI systems that convert business problems into decision-ready outputs.<br/>
-My work begins with understanding business context and decision needs, then building end-to-end ML and LLM workflows from data ingestion to insight delivery.<br/>
-I prioritize system design over isolated models, ensuring components work together to produce reliable, explainable results.<br/>
-My experience includes predictive analytics, NLP, retrieval-augmented generation, and LLM-based applications built for scalability and clarity.<br/>
-Currently deepening expertise in agent-based AI and MLOps to build AI systems that create measurable business impact.
-</p>
-
-
-
-
+I design machine learning and generative AI solutions that convert business problems into decision-ready outputs.
+My work begins with understanding business context and decision needs, followed by building end-to-end ML and LLM workflows from data ingestion to insight delivery.
+I prioritize system design over isolated models, ensuring components work together to produce reliable and explainable results.
+My experience includes predictive analytics, NLP, retrieval-augmented generation, and LLM-based applications built for scalability and clarity.
+Currently expanding expertise in agent-based AI and MLOps to build AI systems that create measurable business impact.
 
 
 ----------------
