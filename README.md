@@ -36,31 +36,17 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 
 
 <!-- Focus + Contributions Section -->
-<div align="center">
-
-  <table>
-    <tr>
-      <!-- Focus Distribution -->
-      <td style="vertical-align: top; padding-right: 16px;">
-        <img 
-          src="assets/focus-distribution.svg" 
-          width="360" 
-          alt="Focus Distribution (Jan 2025 – Present)"
-        />
-      </td>
-
-      <!-- Contributions -->
-      <td style="vertical-align: top;">
-        <img 
-          src="assets/contributions.svg" 
-          width="160" 
-          alt="GitHub Contributions (Jan 2025 – Present)"
-        />
-      </td>
-    </tr>
-  </table>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="./assets/focus-distribution.svg" width="360" />
+    </td>
+    <td width="20"></td>
+    <td>
+      <img src="./assets/contributions.svg" width="160" />
+    </td>
+  </tr>
+</table>
 
 
 
