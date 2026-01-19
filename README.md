@@ -20,21 +20,21 @@ I’m motivated by building AI solutions that create measurable impact—helping
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATISTICS-1F618D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20Engineering-1ABC9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20ENGINEERING-1ABC9C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-2ECC71?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-34495E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps%20%7C%20AWS%20SageMaker-34495E?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/AGENTIC%20AI-6C3483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps%20%7C%20AWS%20SageMaker-2C3E50?style=for-the-badge"/>
 
 </div>
+
+Building AI systems grounded in statistics, designed for real-world decision-making.
+
+------
 
 
 ----------------
