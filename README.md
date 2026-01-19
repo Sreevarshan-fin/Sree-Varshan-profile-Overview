@@ -45,9 +45,7 @@ Your table **must be plain HTML**, not inside any code fence.
     <td align="center" valign="top">
       <img src="assets/most-used-domains.svg" width="360" />
     </td>
-
     <td width="24"></td>
-
     <td align="center" valign="top">
       <img src="assets/contributions.svg" width="180" />
     </td>
