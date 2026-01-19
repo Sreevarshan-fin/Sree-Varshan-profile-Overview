@@ -17,7 +17,7 @@ Currently, I’m deepening my understanding of agent-based AI workflows, MLOps p
 I’m motivated by building AI solutions that create measurable impact—helping teams make better decisions, reduce manual effort, and apply AI in ways that genuinely support business objectives.
 
 
-```
+
 
 
 <div align="center">
