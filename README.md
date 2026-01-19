@@ -33,32 +33,27 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 ----------------
 
 
-<h3>Primary Focus Areas</h3>
-
-<b>Python</b>
-<div style="background:#eaeaea;border-radius:6px;overflow:hidden;">
-  <div style="width:70%;background:#3776AB;color:white;padding:6px 10px;">
-    70%
-  </div>
-</div>
-
-<br/>
-
-<b>SQL</b>
-<div style="background:#eaeaea;border-radius:6px;overflow:hidden;">
-  <div style="width:20%;background:#025E8C;color:white;padding:6px 10px;">
-    20%
-  </div>
-</div>
-
-<br/>
-
-<b>RAG Engineering</b>
-<div style="background:#eaeaea;border-radius:6px;overflow:hidden;">
-  <div style="width:10%;background:#1ABC9C;color:white;padding:6px 10px;">
-    10%
-  </div>
-</div>
-
-<p><i>Journey: Jan 09, 2025 – Present</i></p>
-
+<table>
+  <tr>
+    <th align="left">Domain</th>
+    <th align="left">Focus Share</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>
+      <span style="background:#3776AB;color:white;padding:4px 8px;border-radius:4px;">65%</span>
+    </td>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <td>
+      <span style="background:#025E8C;color:white;padding:4px 8px;border-radius:4px;">20%</span>
+    </td>
+  </tr>
+  <tr>
+    <td>RAG Engineering</td>
+    <td>
+      <span style="background:#1ABC9C;color:white;padding:4px 8px;border-radius:4px;">15%</span>
+    </td>
+  </tr>
+</table>
