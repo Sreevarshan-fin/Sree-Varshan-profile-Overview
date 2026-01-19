@@ -1,27 +1,46 @@
-<svg width="360" height="190" viewBox="0 0 360 190"
+<svg width="360" height="230" viewBox="0 0 360 230"
      xmlns="http://www.w3.org/2000/svg">
 
-  <rect x="0" y="0" width="360" height="190" rx="12"
+  <!-- Background -->
+  <rect x="0" y="0" width="360" height="230" rx="12"
         fill="#0d1117" stroke="#30363d"/>
 
+  <!-- Title -->
   <text x="20" y="30" fill="#f85149"
         font-size="16" font-family="Arial" font-weight="bold">
-    Most Used Domains
+    Focus Distribution
   </text>
 
-  <text x="20" y="65" fill="#c9d1d9" font-size="13">Python</text>
-  <text x="300" y="65" fill="#c9d1d9" font-size="13">65%</text>
-  <rect x="20" y="72" width="320" height="8" rx="4" fill="#30363d"/>
-  <rect x="20" y="72" width="208" height="8" rx="4" fill="#3776AB"/>
+  <!-- Timeline -->
+  <text x="20" y="48" fill="#8b949e"
+        font-size="12" font-family="Arial">
+    Jan 2025 – Present
+  </text>
 
-  <text x="20" y="105" fill="#c9d1d9" font-size="13">SQL</text>
-  <text x="300" y="105" fill="#c9d1d9" font-size="13">20%</text>
-  <rect x="20" y="112" width="320" height="8" rx="4" fill="#30363d"/>
-  <rect x="20" y="112" width="64" height="8" rx="4" fill="#025E8C"/>
+  <!-- ML + DL + Statistics -->
+  <text x="20" y="78" fill="#c9d1d9" font-size="13">
+    ML · DL · Statistics
+  </text>
+  <text x="300" y="78" fill="#c9d1d9" font-size="13">70%</text>
+  <rect x="20" y="85" width="320" height="8" rx="4" fill="#30363d"/>
+  <rect x="20" y="85" width="224" height="8" rx="4" fill="#3776AB"/>
 
-  <text x="20" y="145" fill="#c9d1d9" font-size="13">RAG Engineering</text>
-  <text x="300" y="145" fill="#c9d1d9" font-size="13">15%</text>
-  <rect x="20" y="152" width="320" height="8" rx="4" fill="#30363d"/>
-  <rect x="20" y="152" width="48" height="8" rx="4" fill="#1ABC9C"/>
+  <!-- NLP -->
+  <text x="20" y="118" fill="#c9d1d9" font-size="13">NLP</text>
+  <text x="300" y="118" fill="#c9d1d9" font-size="13">12%</text>
+  <rect x="20" y="125" width="320" height="8" rx="4" fill="#30363d"/>
+  <rect x="20" y="125" width="38" height="8" rx="4" fill="#FF6F00"/>
+
+  <!-- RAG -->
+  <text x="20" y="158" fill="#c9d1d9" font-size="13">RAG</text>
+  <text x="300" y="158" fill="#c9d1d9" font-size="13">5%</text>
+  <rect x="20" y="165" width="320" height="8" rx="4" fill="#30363d"/>
+  <rect x="20" y="165" width="16" height="8" rx="4" fill="#1ABC9C"/>
+
+  <!-- LLM -->
+  <text x="20" y="198" fill="#c9d1d9" font-size="13">LLMs</text>
+  <text x="300" y="198" fill="#c9d1d9" font-size="13">3%</text>
+  <rect x="20" y="205" width="320" height="8" rx="4" fill="#30363d"/>
+  <rect x="20" y="205" width="10" height="8" rx="4" fill="#2ECC71"/>
 
 </svg>
