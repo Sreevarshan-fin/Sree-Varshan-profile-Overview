@@ -7,13 +7,9 @@
 
 
 I work on designing machine learning and generative AI systems that turn business problems into decision-ready outputs.
-
-My approach starts with understanding the business context and the decisions that need to be supported, then building structured ML and LLM workflows that move from data ingestion to prediction, reasoning, and insight delivery. Rather than focusing on individual models or tools, I focus on how components fit together to produce reliable and usable outcomes.
-
+My approach starts with understanding the business context and the decisions that need to be supported, then building structured ML and LLM workflows that move from data ingestion to prediction, reasoning, and insight delivery. Rather than focusing on isolated models, I focus on how components work together to deliver reliable outcomes.
 I’ve worked on systems involving predictive analytics, NLP-based text processing, retrieval-augmented generation, and LLM-driven applications, with an emphasis on robustness, scalability, and clarity of outputs. My work prioritizes consistency, explainability, and practical adoption over experimentation in isolation.
-
 Currently, I’m deepening my understanding of agent-based AI workflows, MLOps practices, and how ML and LLM systems operate and scale in real-world environments.
-
 I’m motivated by building AI solutions that create measurable impact—helping teams make better decisions, reduce manual effort, and apply AI in ways that genuinely support business objectives.
 
 
