@@ -33,7 +33,7 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 ----------------
 
 
-## 📊 Focus Distribution (Jan 09, 2025 – Present)
+
 
 <img src="assets/most-used-domains.svg" />
 
