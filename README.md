@@ -36,11 +36,11 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="assets/most-used-domains.svg" width="600" />
+      <img src="assets/most-used-domains.svg" width="450" />
     </td>
-    <td width="35"></td>
+    <td width="25"></td>
     <td align="center" valign="top">
-      <img src="assets/contributions.svg" width="300" />
+      <img src="assets/contributions.svg" width="250" />
     </td>
   </tr>
 </table>
