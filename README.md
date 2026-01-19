@@ -32,3 +32,33 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 
 ----------------
 
+
+<h3>Primary Focus Areas</h3>
+
+<b>Python</b>
+<div style="background:#eaeaea;border-radius:6px;overflow:hidden;">
+  <div style="width:70%;background:#3776AB;color:white;padding:6px 10px;">
+    70%
+  </div>
+</div>
+
+<br/>
+
+<b>SQL</b>
+<div style="background:#eaeaea;border-radius:6px;overflow:hidden;">
+  <div style="width:20%;background:#025E8C;color:white;padding:6px 10px;">
+    20%
+  </div>
+</div>
+
+<br/>
+
+<b>RAG Engineering</b>
+<div style="background:#eaeaea;border-radius:6px;overflow:hidden;">
+  <div style="width:10%;background:#1ABC9C;color:white;padding:6px 10px;">
+    10%
+  </div>
+</div>
+
+<p><i>Journey: Jan 09, 2025 – Present</i></p>
+
