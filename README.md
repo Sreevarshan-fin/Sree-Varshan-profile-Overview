@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG%20Engineering-1ABC9C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-2ECC71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-6C3483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-34495E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MLOps%20%7C%20AWS%20SageMaker-34495E?style=for-the-badge"/>
 
 <br/>
@@ -25,4 +25,3 @@
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
-
