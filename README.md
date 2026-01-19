@@ -2,6 +2,10 @@
   <img src="https://github.com/user-attachments/assets/bd8711e3-8971-4217-89e5-6226c502efdb" alt="Banner" width="150%" />
 </p>
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Hi I'm Sree Varshan" />
+</p>
+
 
 ---
 I design machine learning and generative AI solutions that translate business problems into decision-ready outcomes. My work starts with understanding business context and decision requirements, then building end-to-end ML and deep learning workflows that move from data ingestion to prediction, reasoning, and insight delivery.
