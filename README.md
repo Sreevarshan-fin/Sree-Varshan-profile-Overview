@@ -46,6 +46,10 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 </table>
 
 
+<div align="center">
+  <img src="assets/system-flow.svg" width="720" alt="AI System Flow"/>
+</div>
+
 
 
 
