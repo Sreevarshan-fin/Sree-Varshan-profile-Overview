@@ -33,27 +33,39 @@ Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML
 ----------------
 
 
-<table>
-  <tr>
-    <th align="left">Domain</th>
-    <th align="left">Focus Share</th>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>
-      <span style="background:#3776AB;color:white;padding:4px 8px;border-radius:4px;">65%</span>
-    </td>
-  </tr>
-  <tr>
-    <td>SQL</td>
-    <td>
-      <span style="background:#025E8C;color:white;padding:4px 8px;border-radius:4px;">20%</span>
-    </td>
-  </tr>
-  <tr>
-    <td>RAG Engineering</td>
-    <td>
-      <span style="background:#1ABC9C;color:white;padding:4px 8px;border-radius:4px;">15%</span>
-    </td>
-  </tr>
-</table>
+<div style="width:360px;background:#0d1117;border:1px solid #30363d;
+            border-radius:10px;padding:16px;font-family:Arial;color:#c9d1d9;">
+
+  <h4 style="margin-top:0;color:#f85149;">Most Used Domains</h4>
+
+  <!-- Python -->
+  <div style="margin-bottom:12px;">
+    <div style="display:flex;justify-content:space-between;">
+      <span>Python</span><span>65%</span>
+    </div>
+    <div style="background:#30363d;border-radius:6px;height:10px;">
+      <div style="width:65%;background:#3776AB;height:10px;border-radius:6px;"></div>
+    </div>
+  </div>
+
+  <!-- SQL -->
+  <div style="margin-bottom:12px;">
+    <div style="display:flex;justify-content:space-between;">
+      <span>SQL</span><span>20%</span>
+    </div>
+    <div style="background:#30363d;border-radius:6px;height:10px;">
+      <div style="width:20%;background:#025E8C;height:10px;border-radius:6px;"></div>
+    </div>
+  </div>
+
+  <!-- RAG Engineering -->
+  <div>
+    <div style="display:flex;justify-content:space-between;">
+      <span>RAG Engineering</span><span>15%</span>
+    </div>
+    <div style="background:#30363d;border-radius:6px;height:10px;">
+      <div style="width:15%;background:#1ABC9C;height:10px;border-radius:6px;"></div>
+    </div>
+  </div>
+
+</div>
