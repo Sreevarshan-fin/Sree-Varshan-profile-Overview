@@ -1,0 +1,46 @@
+<svg width="360" height="140" viewBox="0 0 360 140"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="360" height="140" rx="12"
+        fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Title -->
+  <text x="20" y="28"
+        fill="#58a6ff"
+        font-size="15"
+        font-family="Arial"
+        font-weight="bold">
+    GitHub Activity
+  </text>
+
+  <!-- Time Range -->
+  <text x="20" y="46"
+        fill="#8b949e"
+        font-size="12"
+        font-family="Arial">
+    Jan 2025 – Present
+  </text>
+
+  <!-- Main Stat -->
+  <text x="20" y="86"
+        fill="#c9d1d9"
+        font-size="34"
+        font-family="Arial"
+        font-weight="bold">
+    ~600
+  </text>
+
+  <!-- Label -->
+  <text x="20" y="110"
+        fill="#8b949e"
+        font-size="13"
+        font-family="Arial">
+    Contributions
+  </text>
+
+  <!-- Right-side Accent Bar -->
+  <rect x="300" y="20" width="8" height="100" rx="4"
+        fill="#2ea043"/>
+
+</svg>
