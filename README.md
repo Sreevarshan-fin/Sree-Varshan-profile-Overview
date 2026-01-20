@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="assets/banner.svg" width="1500" alt="AI System Flow"/>
+  <img src="assets/banner.svg" width="2500" alt="AI System Flow"/>
 </div>
 
 
