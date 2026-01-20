@@ -7,11 +7,9 @@
 
 
 ---
-I design machine learning and generative AI solutions that translate business problems into decision-ready outcomes. My work starts with understanding business context and decision requirements, then building end-to-end ML and deep learning workflows that move from data ingestion to prediction, reasoning, and insight delivery.
+I am a Data Scientist who works on understanding data and using machine learning to solve real business problems. I focus on analyzing data, building models, and turning results into clear insights that support better decision-making.
 
-I focus on system design over isolated models, integrating NLP, retrieval-augmented generation, and LLM-based reasoning into cohesive pipelines that produce reliable and explainable outcomes. My experience includes predictive modeling, text-based NLP pipelines, RAG engineering, and LLM-driven applications built for scalability and clarity.
-
-Currently, I’m expanding my expertise in agent-based AI and MLOps to design ML and LLM systems that operate effectively in real-world environments and deliver measurable business impact. I build AI systems to be deployed, trusted, and used—not just demonstrated.
+I also work with Generative AI, using techniques like NLP, RAG, and LLM-based analysis to enhance insights and automate parts of the analytics workflow. Alongside this, I am exploring agentic AI, learning how agent-based approaches can support data analysis and decision processes in practical settings.
 
 
 ----------------
