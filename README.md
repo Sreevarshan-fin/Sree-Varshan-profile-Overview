@@ -7,10 +7,9 @@
 
 
 ---
-I am a Data Scientist who works on understanding data and using machine learning to solve real business problems. I focus on analyzing data, building models, and turning results into clear insights that support better decision-making.
+I am a Data Scientist focused on applying data analysis, statistical modeling, and machine learning to translate business problems into decision-ready insights. My work involves data exploration, model development, validation, and insight generation.
 
-I also work with Generative AI, using techniques like NLP, RAG, and LLM-based analysis to enhance insights and automate parts of the analytics workflow. Alongside this, I am exploring agentic AI, learning how agent-based approaches can support data analysis and decision processes in practical settings.
-
+Alongside core data science, I work with Generative AI, including NLP, retrieval-augmented generation (RAG), and LLM-based analysis, to enhance insights and automate parts of the analytics workflow. I am currently exploring agentic AI and MLOps to understand how these approaches can be applied in practical, real-world analytical workflows.
 
 ----------------
 
