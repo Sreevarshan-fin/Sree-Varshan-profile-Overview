@@ -8,14 +8,15 @@
     </linearGradient>
   </defs>
 
-  <rect x="0" y="0" width="900" height="230" rx="16"
-        fill="url(#bg)" stroke="#30363d"/>
+  <!-- OUTER BANNER (white outline) -->
+  <rect x="1" y="1" width="898" height="228" rx="16"
+        fill="url(#bg)" stroke="#ffffff" stroke-width="1.6"/>
 
   <!-- AI LOGO (top-right) -->
   <image href="./ai_logo.png"
          x="820" y="18"
          width="48" height="48"
-         opacity="0.85"/>
+         opacity="0.9"/>
 
   <!-- Headline -->
   <text x="450" y="64"
@@ -50,45 +51,49 @@
   <!-- TAG BOXES -->
   <g font-family="Inter, system-ui" font-size="13">
 
+    <!-- Business Problem -->
     <rect x="150" y="168" width="160" height="36" rx="10"
-          fill="#0b0f14" stroke="#8b949e"/>
+          fill="#0b0f14" stroke="#ffffff" stroke-width="1.4"/>
     <text x="230" y="192" text-anchor="middle"
-          fill="#c9d1d9" font-weight="500">
+          fill="#ffffff" font-weight="500">
       Business Problem
     </text>
 
+    <!-- Data -->
     <rect x="330" y="168" width="90" height="36" rx="10"
-          fill="#0b0f14" stroke="#8b949e"/>
+          fill="#0b0f14" stroke="#ffffff" stroke-width="1.4"/>
     <text x="375" y="192" text-anchor="middle"
-          fill="#c9d1d9" font-weight="500">
+          fill="#ffffff" font-weight="500">
       Data
     </text>
 
+    <!-- Modeling -->
     <rect x="440" y="168" width="120" height="36" rx="10"
-          fill="#0b0f14" stroke="#8b949e"/>
+          fill="#0b0f14" stroke="#ffffff" stroke-width="1.4"/>
     <text x="500" y="192" text-anchor="middle"
-          fill="#c9d1d9" font-weight="500">
+          fill="#ffffff" font-weight="500">
       Modeling
     </text>
 
+    <!-- Insights -->
     <rect x="580" y="168" width="110" height="36" rx="10"
-          fill="#0b0f14" stroke="#8b949e"/>
+          fill="#0b0f14" stroke="#ffffff" stroke-width="1.4"/>
     <text x="635" y="192" text-anchor="middle"
-          fill="#c9d1d9" font-weight="500">
+          fill="#ffffff" font-weight="500">
       Insights
     </text>
 
+    <!-- GenAI -->
     <rect x="710" y="168" width="90" height="36" rx="10"
-          fill="#0b0f14" stroke="#8b949e"/>
+          fill="#0b0f14" stroke="#ffffff" stroke-width="1.4"/>
     <text x="755" y="192" text-anchor="middle"
-          fill="#c9d1d9" font-weight="500">
+          fill="#ffffff" font-weight="500">
       GenAI
     </text>
 
   </g>
 
 </svg>
-
 
 
 
