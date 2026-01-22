@@ -84,6 +84,25 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 
 
 
+<p align="center">
+
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="assets/intro.png" width="260" alt="Intro Video">
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="assets/linkedin.png" width="260" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:itsreevarshan@gmail.com">
+    <img src="assets/email.png" width="260" alt="Email">
+  </a>
+
+  <a href="tel:+917845860060">
+    <img src="assets/phone.png" width="260" alt="Phone">
+  </a>
+
+</p>
 
 
 
