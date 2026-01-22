@@ -16,11 +16,16 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 ## 🚀 Skills & Projects
 
 <div style="overflow-x:auto; width:100%; padding-bottom:12px;">
-  <object data="assets/skills_grid_dark.svg"
-          type="image/svg+xml"
-          style="width:1600px; height:auto;">
-  </object>
+  <table>
+    <tr>
+      <td style="min-width:1600px;">
+        <img src="assets/skills_grid_dark.svg"
+             alt="Skills & Projects" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 -----------------
