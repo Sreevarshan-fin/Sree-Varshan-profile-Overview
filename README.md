@@ -6,6 +6,13 @@
 
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
 ---
 
 I am a Data Scientist focused on applying data analysis, statistical modeling, and machine learning to translate business problems into decision-ready insights. My work spans data exploration, model development, validation, and insight generation.
