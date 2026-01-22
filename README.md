@@ -19,6 +19,13 @@
 </p>
 
 
+<p align="center" style="margin-top:18px;">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1647db53-62f0-4904-876e-2c18c57cd613"
+         alt="Let's connect on LinkedIn"
+         height="42">
+  </a>
+</p>
 
 
 
