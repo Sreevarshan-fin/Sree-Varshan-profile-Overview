@@ -50,23 +50,6 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 ----------------
 
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img src="assets/most-used-domains.svg" width="450" />
-    </td>
-    <td width="25"></td>
-    <td align="center" valign="top">
-      <img src="assets/contributions.svg" width="250" />
-    </td>
-  </tr>
-</table>
-
-
-
------
-
-
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
@@ -83,6 +66,19 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
   </a>
 </p>
 
+-----
 
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="assets/most-used-domains.svg" width="300" />
+    </td>
+    <td width="25"></td>
+    <td align="center" valign="top">
+      <img src="assets/contributions.svg" width="150" />
+    </td>
+  </tr>
+</table>
 
 
