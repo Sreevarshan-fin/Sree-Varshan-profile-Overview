@@ -1,10 +1,11 @@
 <svg width="1400" height="140" viewBox="0 0 1400 140"
-     xmlns="http://www.w3.org/2000/svg">
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <defs>
-    <linearGradient id="footerGrad" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="footerGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#020617"/>
-      <stop offset="100%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
   </defs>
 
@@ -15,19 +16,19 @@
     }
     .role {
       font: 18px sans-serif;
-      fill: #cbd5f5;
+      fill: #9ca3af;
     }
     .btn {
-      fill: #3b82f6;
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1;
       rx: 10;
+      cursor: pointer;
     }
     .btn-text {
-      font: 600 16px sans-serif;
-      fill: #ffffff;
-    }
-    .btn-sub {
-      font: 14px sans-serif;
-      fill: #c7d2fe;
+      font: 600 15px sans-serif;
+      fill: #e5e7eb;
+      pointer-events: none;
     }
   </style>
 
@@ -35,17 +36,21 @@
   <rect width="1400" height="140" fill="url(#footerGrad)"/>
 
   <!-- LEFT: NAME -->
-  <text x="80" y="60" class="name">Sreevarshan</text>
-  <text x="80" y="95" class="role">Data Scientis</text>
+  <text x="80" y="58" class="name">Sreevarshan</text>
+  <text x="80" y="92" class="role">Data Analyst</text>
 
-  <!-- RIGHT: DOWNLOAD -->
-  <text x="1180" y="55" text-anchor="middle" class="btn-text">
+  <!-- RIGHT: RESUME LABEL -->
+  <text x="1180" y="48" text-anchor="middle" class="btn-text">
     Download Resume
   </text>
 
-  <rect x="1120" y="70" width="140" height="42" class="btn"/>
-  <text x="1190" y="98" text-anchor="middle" class="btn-text">
-    Resume ↓
-  </text>
+  <!-- CLICKABLE RESUME BUTTON -->
+  <a xlink:href="assets/Sree_Varshan_Resume.pdf" target="_blank">
+    <rect x="1110" y="62" width="160" height="44" class="btn"/>
+    <text x="1190" y="90" text-anchor="middle" class="btn-text">
+      Resume ↓
+    </text>
+  </a>
 
 </svg>
+
