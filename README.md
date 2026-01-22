@@ -16,7 +16,7 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 ## 🚀 Skills & Projects
 
 <div style="overflow-x:auto; width:100%; padding-bottom:10px;">
-  <img src="skills_grid_dark.svg" alt="Skills & Projects" />
+  <img src="assets/skills_grid_dark.svg" alt="Skills & Projects" />
 </div>
 
 -----------------
