@@ -66,6 +66,10 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 
 -----
 
+
+![Sree Varshan](assets/name.svg)
+
+
 <table align="center">
   <tr>
     <td align="center">
