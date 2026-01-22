@@ -7,7 +7,7 @@
 
 <p align="center" style="margin-top:20px;">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8a4cd39d-fe14-4514-9f0c-267f540d7808"
+    <img src="![1690310646524](https://github.com/user-attachments/assets/1647db53-62f0-4904-876e-2c18c57cd613)"
          alt="Let's connect on LinkedIn"
          height="40"/>
   </a>
