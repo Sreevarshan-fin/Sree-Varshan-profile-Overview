@@ -75,10 +75,10 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 
 
 
-🔹 [▶ Watch Intro Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-🔹 [💼 Connect on LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
-🔹 📧 itsreevarshan@gmail.com  
-🔹 📞 +91 78458 60060
+- ▶️ [Watch Intro Video](https://youtube.com/...)
+- 💼 [Connect on LinkedIn](https://linkedin.com/in/...)
+- 📧 itsreevarshan@gmail.com
+- 📞 +91 78458 60060
 
 
 
