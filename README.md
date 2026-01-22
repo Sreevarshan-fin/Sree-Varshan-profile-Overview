@@ -6,11 +6,23 @@
 
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center" style="margin-top:18px;">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"
+     target="_blank"
+     style="
+       display:inline-block;
+       padding:10px 22px;
+       border:1px solid #30363d;
+       border-radius:999px;
+       color:#0A66C2;
+       font-weight:600;
+       text-decoration:none;
+       background:rgba(22,27,34,0.85);
+     ">
+    🔗 Connect on LinkedIn
   </a>
 </p>
+
 
 
 
