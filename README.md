@@ -7,10 +7,11 @@
 
 <p align="center" style="margin-top:20px;">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-6B7280?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn Connect"/>
   </a>
 </p>
+
 
 
 
