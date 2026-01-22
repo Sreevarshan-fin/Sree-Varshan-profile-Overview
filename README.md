@@ -26,9 +26,9 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 
 
 
------------------
 
 ##  Skills
+-----------
 
 <div align="center">
 
@@ -44,9 +44,9 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 
 </div>
 
-----------
 
 ## Projects
+-------
 
 -
 -
