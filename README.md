@@ -67,8 +67,6 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 -----
 
 
-![Sree Varshan](assets/name.svg)
-
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
