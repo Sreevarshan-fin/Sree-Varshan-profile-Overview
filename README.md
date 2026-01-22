@@ -5,27 +5,25 @@
 </div>
 
 
+---
+
+## 🎬 Intro Video
+
+[![Watch my 60-second introduction](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+▶️ **Watch my 60-second introduction on YouTube**
+
+---
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg"
-         alt="Intro Video"
-         width="700">
-  </a>
-</p>
-
-<p align="center">
-  ▶️ <strong>Watch my 60-second introduction</strong>
-</p>
-
-
-<p align="center" style="margin-top:18px;">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://github.com/user-attachments/assets/1647db53-62f0-4904-876e-2c18c57cd613"
-         alt="Let's connect on LinkedIn"
+         alt="Connect with me on LinkedIn"
          height="42">
   </a>
 </p>
+
+---
 
 
 
