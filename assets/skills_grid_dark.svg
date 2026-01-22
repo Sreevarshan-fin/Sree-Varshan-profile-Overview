@@ -1,77 +1,103 @@
-<svg width="1000" height="260" viewBox="0 0 1000 260"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1600" height="200" viewBox="0 0 1600 200"
+     xmlns="http://www.w3.org/2000/svg">
 
   <style>
     .bg { fill: #0d1117; }
+
     .card {
-      fill: #161b22;
-      stroke: #30363d;
+      fill: rgba(22,27,34,0.9);
+      stroke: rgba(255,255,255,0.08);
       stroke-width: 1;
-      rx: 18;
-      transition: transform .2s ease, filter .2s ease;
+      rx: 20;
+      filter: drop-shadow(0 8px 16px rgba(0,0,0,0.6));
     }
-    .card:hover {
-      transform: translateY(-4px);
-      filter: drop-shadow(0 6px 12px rgba(0,0,0,.6));
+
+    .count {
+      font: bold 28px sans-serif;
+      fill: #58a6ff;
+      text-anchor: middle;
     }
-    .count { font: bold 26px sans-serif; fill: #e6edf3; }
-    .label { font: 14px sans-serif; fill: #c9d1d9; }
-    .sub { font: 13px sans-serif; fill: #8b949e; }
+
+    .label {
+      font: 14px sans-serif;
+      fill: #e6edf3;
+      text-anchor: middle;
+    }
+
+    .sub {
+      font: 12px sans-serif;
+      fill: #8b949e;
+      text-anchor: middle;
+    }
+
+    .hint {
+      font: 12px sans-serif;
+      fill: #8b949e;
+      text-anchor: end;
+    }
   </style>
 
+  <!-- Background -->
   <rect width="100%" height="100%" class="bg"/>
 
-  <!-- ROW 1 -->
-  <rect x="20" y="20" width="220" height="100" class="card"/>
-  <image x="35" y="40" width="48" height="48" xlink:href="assets/ml.png"/>
-  <text x="100" y="55" class="count">3</text>
-  <text x="100" y="75" class="label">Machine Learning</text>
-  <text x="100" y="92" class="sub">Projects</text>
+  <!-- OUTER FRAME -->
+  <rect x="20" y="20" width="1560" height="160" rx="24"
+        fill="none" stroke="#30363d" stroke-width="1"/>
 
-  <rect x="260" y="20" width="220" height="100" class="card"/>
-  <image x="275" y="40" width="48" height="48" xlink:href="assets/dl.png"/>
-  <text x="340" y="55" class="count">1</text>
-  <text x="340" y="75" class="label">Deep Learning</text>
-  <text x="340" y="92" class="sub">Projects</text>
+  <!-- SCROLL HINT -->
+  <text x="1540" y="45" class="hint">← scroll</text>
 
-  <rect x="500" y="20" width="220" height="100" class="card"/>
-  <image x="515" y="40" width="48" height="48" xlink:href="assets/nlp.png"/>
-  <text x="580" y="55" class="count">2</text>
-  <text x="580" y="75" class="label">NLP</text>
-  <text x="580" y="92" class="sub">Projects</text>
+  <!-- CARDS (ONE ROW) -->
 
-  <rect x="740" y="20" width="220" height="100" class="card"/>
-  <image x="755" y="40" width="48" height="48" xlink:href="assets/genai.png"/>
-  <text x="820" y="55" class="count">2</text>
-  <text x="820" y="75" class="label">Gen AI</text>
-  <text x="820" y="92" class="sub">Projects</text>
+  <!-- ML -->
+  <rect x="60" y="60" width="220" height="80" class="card"/>
+  <text x="170" y="90" class="count">3</text>
+  <text x="170" y="110" class="label">Machine Learning</text>
+  <text x="170" y="126" class="sub">Projects</text>
 
-  <!-- ROW 2 -->
-  <rect x="20" y="140" width="220" height="100" class="card"/>
-  <image x="35" y="160" width="48" height="48" xlink:href="assets/stats.png"/>
-  <text x="100" y="175" class="count">2</text>
-  <text x="100" y="195" class="label">Statistics</text>
-  <text x="100" y="212" class="sub">Projects</text>
+  <!-- DL -->
+  <rect x="310" y="60" width="220" height="80" class="card"/>
+  <text x="420" y="90" class="count">1</text>
+  <text x="420" y="110" class="label">Deep Learning</text>
+  <text x="420" y="126" class="sub">Projects</text>
 
-  <rect x="260" y="140" width="220" height="100" class="card"/>
-  <image x="275" y="160" width="48" height="48" xlink:href="assets/sql.png"/>
-  <text x="340" y="175" class="count">2</text>
-  <text x="340" y="195" class="label">SQL</text>
-  <text x="340" y="212" class="sub">Projects</text>
+  <!-- NLP -->
+  <rect x="560" y="60" width="220" height="80" class="card"/>
+  <text x="670" y="90" class="count">2</text>
+  <text x="670" y="110" class="label">NLP</text>
+  <text x="670" y="126" class="sub">Projects</text>
 
-  <rect x="500" y="140" width="220" height="100" class="card"/>
-  <image x="515" y="160" width="48" height="48" xlink:href="assets/powerbi.png"/>
-  <text x="580" y="175" class="count">3</text>
-  <text x="580" y="195" class="label">Power BI</text>
-  <text x="580" y="212" class="sub">Projects</text>
+  <!-- GEN AI -->
+  <rect x="810" y="60" width="220" height="80" class="card"/>
+  <text x="920" y="90" class="count">2</text>
+  <text x="920" y="110" class="label">Gen AI</text>
+  <text x="920" y="126" class="sub">Projects</text>
 
-  <rect x="740" y="140" width="220" height="100" class="card"/>
-  <image x="755" y="160" width="48" height="48" xlink:href="assets/intenship.png"/>
-  <text x="820" y="175" class="count">2</text>
-  <text x="820" y="195" class="label">Virtual Internship</text>
-  <text x="820" y="212" class="sub">Experience</text>
+  <!-- STATS -->
+  <rect x="1060" y="60" width="220" height="80" class="card"/>
+  <text x="1170" y="90" class="count">2</text>
+  <text x="1170" y="110" class="label">Statistics</text>
+  <text x="1170" y="126" class="sub">Projects</text>
+
+  <!-- SQL -->
+  <rect x="1310" y="60" width="220" height="80" class="card"/>
+  <text x="1420" y="90" class="count">2</text>
+  <text x="1420" y="110" class="label">SQL</text>
+  <text x="1420" y="126" class="sub">Projects</text>
+
+  <!-- POWER BI -->
+  <rect x="1560" y="60" width="220" height="80" class="card"/>
+  <text x="1670" y="90" class="count">3</text>
+  <text x="1670" y="110" class="label">Power BI</text>
+  <text x="1670" y="126" class="sub">Projects</text>
+
+  <!-- INTERNSHIP -->
+  <rect x="1810" y="60" width="220" height="80" class="card"/>
+  <text x="1920" y="90" class="count">2</text>
+  <text x="1920" y="110" class="label">Virtual Internship</text>
+  <text x="1920" y="126" class="sub">Experience</text>
 
 </svg>
+
 
 
