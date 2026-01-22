@@ -6,16 +6,12 @@
 
 
 <p align="center" style="margin-top:20px;">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"
-     style="display:inline-flex;align-items:center;font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:1px;text-decoration:none;border-radius:6px;overflow:hidden;">
-    <span style="background:#6b7280;color:#fff;padding:10px 16px;font-size:12px;">
-      LINKEDIN
-    </span>
-    <span style="background:#0A66C2;color:#fff;padding:10px 18px;font-size:12px;">
-      CONNECT
-    </span>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn Connect"/>
   </a>
 </p>
+
 
 
 
