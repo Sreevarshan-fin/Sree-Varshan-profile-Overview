@@ -5,13 +5,15 @@
 </div>
 
 
+
 <p align="center" style="margin-top:20px;">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="![1690310646524](https://github.com/user-attachments/assets/1647db53-62f0-4904-876e-2c18c57cd613)"
+    <img src="https://github.com/user-attachments/assets/1647db53-62f0-4904-876e-2c18c57cd613"
          alt="Let's connect on LinkedIn"
-         height="40"/>
+         height="40">
   </a>
 </p>
+
 
 
 
