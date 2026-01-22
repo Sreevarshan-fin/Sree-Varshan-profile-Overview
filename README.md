@@ -12,20 +12,35 @@
      style="
        display:inline-flex;
        align-items:center;
-       gap:10px;
-       padding:10px 18px;
-       background:#0A66C2;
-       color:#ffffff;
+       font-family:Arial, Helvetica, sans-serif;
        font-weight:700;
-       border-radius:6px;
+       letter-spacing:1px;
        text-decoration:none;
+       border-radius:6px;
+       overflow:hidden;
      ">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
-         height="20"
-         alt="LinkedIn"/>
-    Connect
+
+    <span style="
+      background:#6b7280;
+      color:#ffffff;
+      padding:10px 16px;
+      font-size:12px;
+    ">
+      LINKEDIN
+    </span>
+
+    <span style="
+      background:#0A66C2;
+      color:#ffffff;
+      padding:10px 18px;
+      font-size:12px;
+    ">
+      CONNECT
+    </span>
+
   </a>
 </p>
+
 
 
 
