@@ -11,17 +11,17 @@
      target="_blank"
      style="
        display:inline-block;
-       padding:10px 22px;
-       border:1px solid #30363d;
-       border-radius:999px;
-       color:#0A66C2;
-       font-weight:600;
+       padding:10px 26px;
+       border-radius:8px;
+       background:#0A66C2;
+       color:white;
+       font-weight:700;
        text-decoration:none;
-       background:rgba(22,27,34,0.85);
      ">
-    🔗 Connect on LinkedIn
+    CONNECT ON LINKEDIN
   </a>
 </p>
+
 
 
 
