@@ -65,7 +65,7 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 
 
 ## 📬 Contact
-![Contact](assets/contact_me_strip.svg)
+![Contact](assets/contact_strip_full.svg)
 
 
 ![Footer](assets/profile_footer.svg)
