@@ -6,28 +6,27 @@
 
 
 
-<p align="center" style="margin-top:18px;">
+<p align="center" style="margin-top:20px;">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"
      target="_blank"
      style="
        display:inline-flex;
        align-items:center;
        gap:10px;
-       padding:10px 22px;
-       border:1px solid #30363d;
-       border-radius:999px;
-       background:rgba(22,27,34,0.85);
-       color:#e6edf3;
-       font-weight:600;
+       padding:10px 18px;
+       background:#0A66C2;
+       color:#ffffff;
+       font-weight:700;
+       border-radius:6px;
        text-decoration:none;
      ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="22"
-         height="22"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
+         height="20"
          alt="LinkedIn"/>
-    Connect on LinkedIn
+    Connect
   </a>
 </p>
+
 
 
 
