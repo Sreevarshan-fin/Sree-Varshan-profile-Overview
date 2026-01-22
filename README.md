@@ -7,13 +7,14 @@
 
 
 ---
+
 I am a Data Scientist focused on applying data analysis, statistical modeling, and machine learning to translate business problems into decision-ready insights. My work spans data exploration, model development, validation, and insight generation.
 
 Alongside core data science, I work with Generative AI, including NLP, retrieval-augmented generation (RAG), and LLM-based analysis, to enhance insights and automate parts of analytical processes. I am currently exploring agentic AI and MLOps to understand how these approaches can be applied effectively in real-world analytics and machine learning contexts.
 
 ----------------
 
-## 🚀 Skills & Projects
+## Skills & Projects
 
 <div style="overflow-x:auto; width:100%; padding-bottom:12px;">
   <table>
