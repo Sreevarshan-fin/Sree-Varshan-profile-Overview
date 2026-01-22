@@ -1,0 +1,77 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <style>
+    .bg { fill: #0d1117; }
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1;
+      rx: 18;
+      transition: transform .2s ease, filter .2s ease;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      filter: drop-shadow(0 6px 12px rgba(0,0,0,.6));
+    }
+    .count { font: bold 26px sans-serif; fill: #e6edf3; }
+    .label { font: 14px sans-serif; fill: #c9d1d9; }
+    .sub { font: 13px sans-serif; fill: #8b949e; }
+  </style>
+
+  <rect width="100%" height="100%" class="bg"/>
+
+  <!-- ROW 1 -->
+  <rect x="20" y="20" width="220" height="100" class="card"/>
+  <image x="35" y="40" width="48" height="48" xlink:href="assets/ml.png"/>
+  <text x="100" y="55" class="count">3</text>
+  <text x="100" y="75" class="label">Machine Learning</text>
+  <text x="100" y="92" class="sub">Projects</text>
+
+  <rect x="260" y="20" width="220" height="100" class="card"/>
+  <image x="275" y="40" width="48" height="48" xlink:href="assets/dl.png"/>
+  <text x="340" y="55" class="count">1</text>
+  <text x="340" y="75" class="label">Deep Learning</text>
+  <text x="340" y="92" class="sub">Projects</text>
+
+  <rect x="500" y="20" width="220" height="100" class="card"/>
+  <image x="515" y="40" width="48" height="48" xlink:href="assets/nlp.png"/>
+  <text x="580" y="55" class="count">2</text>
+  <text x="580" y="75" class="label">NLP</text>
+  <text x="580" y="92" class="sub">Projects</text>
+
+  <rect x="740" y="20" width="220" height="100" class="card"/>
+  <image x="755" y="40" width="48" height="48" xlink:href="assets/genai.png"/>
+  <text x="820" y="55" class="count">2</text>
+  <text x="820" y="75" class="label">Gen AI</text>
+  <text x="820" y="92" class="sub">Projects</text>
+
+  <!-- ROW 2 -->
+  <rect x="20" y="140" width="220" height="100" class="card"/>
+  <image x="35" y="160" width="48" height="48" xlink:href="assets/stats.png"/>
+  <text x="100" y="175" class="count">2</text>
+  <text x="100" y="195" class="label">Statistics</text>
+  <text x="100" y="212" class="sub">Projects</text>
+
+  <rect x="260" y="140" width="220" height="100" class="card"/>
+  <image x="275" y="160" width="48" height="48" xlink:href="assets/sql.png"/>
+  <text x="340" y="175" class="count">2</text>
+  <text x="340" y="195" class="label">SQL</text>
+  <text x="340" y="212" class="sub">Projects</text>
+
+  <rect x="500" y="140" width="220" height="100" class="card"/>
+  <image x="515" y="160" width="48" height="48" xlink:href="assets/powerbi.png"/>
+  <text x="580" y="175" class="count">3</text>
+  <text x="580" y="195" class="label">Power BI</text>
+  <text x="580" y="212" class="sub">Projects</text>
+
+  <rect x="740" y="140" width="220" height="100" class="card"/>
+  <image x="755" y="160" width="48" height="48" xlink:href="assets/intenship.png"/>
+  <text x="820" y="175" class="count">2</text>
+  <text x="820" y="195" class="label">Virtual Internship</text>
+  <text x="820" y="212" class="sub">Experience</text>
+
+</svg>
+
+
