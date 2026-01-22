@@ -10,17 +10,25 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"
      target="_blank"
      style="
-       display:inline-block;
-       padding:10px 26px;
-       border-radius:8px;
-       background:#0A66C2;
-       color:white;
-       font-weight:700;
+       display:inline-flex;
+       align-items:center;
+       gap:10px;
+       padding:10px 22px;
+       border:1px solid #30363d;
+       border-radius:999px;
+       background:rgba(22,27,34,0.85);
+       color:#e6edf3;
+       font-weight:600;
        text-decoration:none;
      ">
-    CONNECT ON LINKEDIN
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="22"
+         height="22"
+         alt="LinkedIn"/>
+    Connect on LinkedIn
   </a>
 </p>
+
 
 
 
