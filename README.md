@@ -14,7 +14,7 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 ----------------
 
 ## 🚀 Skills & Projects
-![Skills Grid](skills_grid_dark.svg)
+![Skills Grid](assets/skills_grid_dark.svg)
 
 
 -----------------
