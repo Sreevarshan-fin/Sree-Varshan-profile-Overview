@@ -87,28 +87,28 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 
   <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
     <img src="assets/intro_3.png"
-         width="200"
+         width="180"
          style="margin:8px"
          alt="Intro Video">
   </a>
 
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="assets/linkedin_3.png"
-         width="200"
+         width="180"
          style="margin:8px"
          alt="LinkedIn">
   </a>
 
   <a href="mailto:itsreevarshan@gmail.com">
     <img src="assets/email_3.png"
-         width="200"
+         width="180"
          style="margin:8px"
          alt="Email">
   </a>
 
   <a href="tel:+917845860060">
     <img src="assets/phone_3.png"
-         width="200"
+         width="180"
          style="margin:8px"
          alt="Phone">
   </a>
