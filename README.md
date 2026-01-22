@@ -72,10 +72,10 @@ Alongside core data science, I work with Generative AI, including NLP, retrieval
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" width="300">
+    <td align="center" valign="left" width="300">
       <img src="assets/most-used-domains.svg" width="260" />
     </td>
-    <td align="center" valign="middle" width="200">
+    <td align="center" valign="right" width="200">
       <img src="assets/contributions.svg" width="160" />
     </td>
   </tr>
