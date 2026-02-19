@@ -1,88 +1,63 @@
 <svg width="1000" height="900" viewBox="0 0 1000 900" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .bg { fill:#000000; }
-    .box { fill:#0f6174; stroke:#2bd4ff; stroke-width:2; rx:12; }
-    .text { fill:#ffffff; font-family:Arial, sans-serif; font-size:16px; font-weight:bold; text-anchor:middle; }
-    .small { font-size:13px; font-weight:normal; }
-    .arrow { stroke:#2bd4ff; stroke-width:3; marker-end:url(#arrowhead); }
+    .box {
+      fill: rgba(239, 68, 68, 0.15);
+      stroke: #ef4444;
+      stroke-width: 2;
+    }
+    .text {
+      fill: #ffffff;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      font-weight: bold;
+      text-anchor: middle;
+    }
+    .small {
+      font-size: 13px;
+      font-weight: normal;
+    }
+    .arrow {
+      stroke: #ef4444;
+      stroke-width: 3;
+      marker-end: url(#arrowhead);
+    }
   </style>
-
-  <!-- Background -->
-  <rect class="bg" x="0" y="0" width="100%" height="100%"/>
 
   <!-- Arrowhead -->
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7"
             refX="10" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2bd4ff"/>
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ef4444"/>
     </marker>
   </defs>
 
   <!-- Row 1 -->
-  <rect class="box" x="50" y="50" width="220" height="90"/>
+  <rect class="box" x="50" y="50" width="220" height="90" rx="14"/>
   <text class="text" x="160" y="95">Problem Understanding</text>
 
-  <rect class="box" x="390" y="50" width="220" height="90"/>
+  <rect class="box" x="390" y="50" width="220" height="90" rx="14"/>
   <text class="text" x="500" y="95">Data Collection</text>
 
-  <rect class="box" x="730" y="50" width="220" height="90"/>
+  <rect class="box" x="730" y="50" width="220" height="90" rx="14"/>
   <text class="text" x="840" y="95">Data Cleaning</text>
 
   <!-- Row 2 -->
-  <rect class="box" x="730" y="200" width="220" height="110"/>
+  <rect class="box" x="730" y="200" width="220" height="110" rx="14"/>
   <text class="text" x="840" y="240">Exploratory Data</text>
   <text class="text" x="840" y="265">Analysis</text>
 
-  <rect class="box" x="390" y="200" width="220" height="90"/>
+  <rect class="box" x="390" y="200" width="220" height="90" rx="14"/>
   <text class="text" x="500" y="245">Data Pre-Processing</text>
 
-  <rect class="box" x="50" y="200" width="220" height="130"/>
+  <rect class="box" x="50" y="200" width="220" height="130" rx="14"/>
   <text class="text" x="160" y="235">Feature Engineering</text>
   <text class="text small" x="160" y="260">• Feature Creation</text>
   <text class="text small" x="160" y="280">• Feature Selection</text>
   <text class="text small" x="160" y="300">• Encoding</text>
 
   <!-- Row 3 -->
-  <rect class="box" x="50" y="380" width="220" height="120"/>
+  <rect class="box" x="50" y="380" width="220" height="120" rx="14"/>
   <text class="text" x="160" y="415">Class Imbalance</text>
-  <text class="text small" x="160" y="440">• Under sampling</text>
-  <text class="text small" x="160" y="460">• Over sampling</text>
-
-  <rect class="box" x="390" y="390" width="220" height="90"/>
-  <text class="text" x="500" y="435">Model Selection</text>
-
-  <rect class="box" x="730" y="370" width="220" height="150"/>
-  <text class="text" x="840" y="405">Model Training</text>
-  <text class="text small" x="840" y="430">• Logistic Regression</text>
-  <text class="text small" x="840" y="450">• XG Boost</text>
-  <text class="text small" x="840" y="470">• Cat Boost</text>
-  <text class="text small" x="840" y="490">• Random Forest</text>
-
-  <!-- Row 4 -->
-  <rect class="box" x="730" y="560" width="220" height="150"/>
-  <text class="text" x="840" y="595">Model Evaluation</text>
-  <text class="text small" x="840" y="620">• Confusion Matrix</text>
-  <text class="text small" x="840" y="640">• ROC-AUC</text>
-  <text class="text small" x="840" y="660">• KS Statistics</text>
-  <text class="text small" x="840" y="680">• Gini Coefficient</text>
-
-  <rect class="box" x="390" y="600" width="220" height="90"/>
-  <text class="text" x="500" y="645">Model Deployment</text>
-
-  <rect class="box" x="50" y="600" width="220" height="90"/>
-  <text class="text" x="160" y="645">Model Monitoring</text>
-
-  <!-- Arrows -->
-  <line class="arrow" x1="270" y1="95" x2="390" y2="95"/>
-  <line class="arrow" x1="610" y1="95" x2="730" y2="95"/>
-  <line class="arrow" x1="840" y1="140" x2="840" y2="200"/>
-  <line class="arrow" x1="730" y1="245" x2="610" y2="245"/>
-  <line class="arrow" x1="390" y1="245" x2="270" y2="245"/>
-  <line class="arrow" x1="160" y1="330" x2="160" y2="380"/>
-  <line class="arrow" x1="270" y1="440" x2="390" y2="440"/>
-  <line class="arrow" x1="610" y1="440" x2="730" y2="440"/>
-  <line class="arrow" x1="840" y1="520" x2="840" y2="560"/>
-  <line class="arrow" x1="730" y1="645" x2="610" y2="645"/>
-  <line class="arrow" x1="390" y1="645" x2="270" y2="645"/>
-</svg>
+  <text class="tex
+>
 
