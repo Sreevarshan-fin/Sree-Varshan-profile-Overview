@@ -6,7 +6,7 @@
       stroke-width: 2;
     }
     .text {
-      fill: #ffffff;
+      fill: #1f2937; /* black / GitHub style */
       font-family: Arial, sans-serif;
       font-size: 16px;
       font-weight: bold;
@@ -98,5 +98,3 @@
   <line class="arrow" x1="730" y1="645" x2="610" y2="645"/>
   <line class="arrow" x1="390" y1="645" x2="270" y2="645"/>
 </svg>
-
-
