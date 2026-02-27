@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <rect x="10" y="10" width="380" height="100" fill="#eef2ff" stroke="#6366f1" stroke-width="2"/>
+  <text x="200" y="65" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">
+    MAP Pipeline
+  </text>
+</svg>
