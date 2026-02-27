@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
   <defs>
     <style>
-      .title { font-family: Inter, Arial, sans-serif; font-size:16px; font-weight:600; fill:#1f2937; }
-      .text { font-family: Inter, Arial, sans-serif; font-size:12px; fill:#4b5563; }
-      .bold { font-family: Inter, Arial, sans-serif; font-size:13px; font-weight:700; fill:#374151; }
+      .title { font-family: Arial, sans-serif; font-size:16px; font-weight:600; fill:#1f2937; }
+      .text { font-family: Arial, sans-serif; font-size:12px; fill:#4b5563; }
+      .bold { font-family: Arial, sans-serif; font-size:13px; font-weight:700; fill:#374151; }
       .arrow { stroke:#6b7280; stroke-width:2; fill:none; marker-end:url(#arrow); }
     </style>
 
@@ -12,7 +12,7 @@
     </marker>
 
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.15"/>
     </filter>
   </defs>
 
@@ -26,7 +26,7 @@
   <rect x="56" y="121" width="50" height="38" rx="6" fill="#dcfce7" stroke="#22c55e"/>
 
   <!-- BOLD LABEL -->
-  <text class="bold" x="60" y="185" text-anchor="middle">
+  <text class="bold" x="65" y="185" text-anchor="middle">
     New CSV / Excel
   </text>
 
@@ -65,7 +65,7 @@
   <text class="title" x="950" y="120">PDF Letters</text>
   <text class="text" x="945" y="155">• Generate Warnings</text>
 
-  <!-- TOP OUTPUT (BOLD + CLEAR) -->
+  <!-- TOP OUTPUT -->
   <text class="bold" x="1005" y="60" text-anchor="middle">
     Generate Warnings
   </text>
