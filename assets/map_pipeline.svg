@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <style>
+      .title { font-family: Inter, Arial, sans-serif; font-size:16px; font-weight:600; fill:#1f2937; }
+      .text { font-family: Inter, Arial, sans-serif; font-size:12px; fill:#4b5563; }
+      .bold { font-family: Inter, Arial, sans-serif; font-size:13px; font-weight:700; fill:#374151; }
+      .arrow { stroke:#6b7280; stroke-width:2; fill:none; marker-end:url(#arrow); }
+    </style>
+
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <polygon points="0 0, 10 5, 0 10" fill="#6b7280"/>
+    </marker>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect x="10" y="10" width="1180" height="300" rx="22"
+        fill="#f9fafb" stroke="#e5e7eb"/>
+
+  <!-- FILE STACK -->
+  <rect x="40" y="135" width="50" height="38" rx="6" fill="#e5e7eb" stroke="#9ca3af"/>
+  <rect x="48" y="128" width="50" height="38" rx="6" fill="#dbeafe" stroke="#60a5fa"/>
+  <rect x="56" y="121" width="50" height="38" rx="6" fill="#dcfce7" stroke="#22c55e"/>
+
+  <!-- BOLD LABEL -->
+  <text class="bold" x="60" y="185" text-anchor="middle">
+    New CSV / Excel
+  </text>
+
+  <!-- DATA INGESTION -->
+  <rect x="120" y="90" width="170" height="140" rx="14"
+        fill="#eef2ff" stroke="#6366f1" stroke-width="2" filter="url(#shadow)"/>
+  <text class="title" x="135" y="115">Data Ingestion</text>
+  <text class="text" x="130" y="140">• Scan & Load</text>
+  <text class="text" x="130" y="158">• De-duplicate</text>
+  <text class="text" x="130" y="176">• Currency Convert</text>
+  <text class="text" x="130" y="194">• Log Files</text>
+
+  <!-- SELLER DATA -->
+  <rect x="320" y="90" width="160" height="140" rx="14"
+        fill="#ecfdf5" stroke="#16a34a" stroke-width="2" filter="url(#shadow)"/>
+  <text class="title" x="345" y="120">Seller Data</text>
+  <text class="text" x="340" y="155">• Cleansed Records</text>
+
+  <!-- PRICE MONITORING -->
+  <rect x="510" y="90" width="180" height="140" rx="14"
+        fill="#fff7ed" stroke="#ea580c" stroke-width="2" filter="url(#shadow)"/>
+  <text class="title" x="525" y="115">Price Monitoring</text>
+  <text class="text" x="520" y="145">• Enrichment & Join</text>
+  <text class="text" x="520" y="163">• Violation Detection</text>
+  <text class="text" x="520" y="181">• Track Lineage</text>
+
+  <!-- VIOLATION TABLE -->
+  <rect x="720" y="90" width="170" height="140" rx="14"
+        fill="#fef2f2" stroke="#dc2626" stroke-width="2" filter="url(#shadow)"/>
+  <text class="title" x="740" y="120">Violation Table</text>
+  <text class="text" x="735" y="155">• Flagged Violations</text>
+
+  <!-- PDF LETTERS -->
+  <rect x="920" y="90" width="170" height="140" rx="14"
+        fill="#f9fafb" stroke="#374151" stroke-width="2" filter="url(#shadow)"/>
+  <text class="title" x="950" y="120">PDF Letters</text>
+  <text class="text" x="945" y="155">• Generate Warnings</text>
+
+  <!-- TOP OUTPUT (BOLD + CLEAR) -->
+  <text class="bold" x="1005" y="60" text-anchor="middle">
+    Generate Warnings
+  </text>
+  <line class="arrow" x1="1005" y1="90" x2="1005" y2="68"/>
+
+  <!-- FLOW ARROWS -->
+  <line class="arrow" x1="106" y1="150" x2="120" y2="150"/>
+  <line class="arrow" x1="290" y1="150" x2="320" y2="150"/>
+  <line class="arrow" x1="480" y1="150" x2="510" y2="150"/>
+  <line class="arrow" x1="690" y1="150" x2="720" y2="150"/>
+  <line class="arrow" x1="890" y1="150" x2="920" y2="150"/>
+</svg>
