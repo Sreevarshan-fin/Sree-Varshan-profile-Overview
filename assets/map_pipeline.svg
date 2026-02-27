@@ -1,17 +1,13 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
-  <defs>
-    <style>
-      .title { font-family: Arial, sans-serif; font-size:16px; font-weight:600; fill:#1f2937; }
-      .text { font-family: Arial, sans-serif; font-size:12px; fill:#4b5563; }
-      .bold { font-family: Arial, sans-serif; font-size:13px; font-weight:700; fill:#374151; }
-      .arrow { stroke:#6b7280; stroke-width:2; fill:none; marker-end:url(#arrow); }
-    </style>
 
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
-      <polygon points="0 0, 10 5, 0 10" fill="#6b7280"/>
-    </marker>
-  </defs>
+  <style>
+    .title { font-family: Arial, sans-serif; font-size:16px; font-weight:600; fill:#1f2937; }
+    .text { font-family: Arial, sans-serif; font-size:12px; fill:#4b5563; }
+    .bold { font-family: Arial, sans-serif; font-size:13px; font-weight:700; fill:#374151; }
+    .line { stroke:#6b7280; stroke-width:2; }
+  </style>
 
   <!-- Background -->
   <rect x="10" y="10" width="1180" height="300" rx="22"
@@ -65,12 +61,31 @@
   <text class="bold" x="1005" y="60" text-anchor="middle">
     Generate Warnings
   </text>
-  <line class="arrow" x1="1005" y1="90" x2="1005" y2="68"/>
 
-  <!-- FLOW ARROWS -->
-  <line class="arrow" x1="106" y1="150" x2="120" y2="150"/>
-  <line class="arrow" x1="290" y1="150" x2="320" y2="150"/>
-  <line class="arrow" x1="480" y1="150" x2="510" y2="150"/>
-  <line class="arrow" x1="690" y1="150" x2="720" y2="150"/>
-  <line class="arrow" x1="890" y1="150" x2="920" y2="150"/>
+  <!-- ===== SAFE ARROWS (lines + triangles) ===== -->
+
+  <!-- arrow 1 -->
+  <line class="line" x1="106" y1="150" x2="120" y2="150"/>
+  <polygon points="120,150 114,146 114,154" fill="#6b7280"/>
+
+  <!-- arrow 2 -->
+  <line class="line" x1="290" y1="150" x2="320" y2="150"/>
+  <polygon points="320,150 314,146 314,154" fill="#6b7280"/>
+
+  <!-- arrow 3 -->
+  <line class="line" x1="480" y1="150" x2="510" y2="150"/>
+  <polygon points="510,150 504,146 504,154" fill="#6b7280"/>
+
+  <!-- arrow 4 -->
+  <line class="line" x1="690" y1="150" x2="720" y2="150"/>
+  <polygon points="720,150 714,146 714,154" fill="#6b7280"/>
+
+  <!-- arrow 5 -->
+  <line class="line" x1="890" y1="150" x2="920" y2="150"/>
+  <polygon points="920,150 914,146 914,154" fill="#6b7280"/>
+
+  <!-- top arrow -->
+  <line class="line" x1="1005" y1="90" x2="1005" y2="70"/>
+  <polygon points="1005,70 1001,76 1009,76" fill="#6b7280"/>
+
 </svg>
