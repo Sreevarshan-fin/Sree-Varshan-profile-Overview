@@ -1,43 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240">
 
-  <rect x="5" y="5" width="890" height="210" fill="#f9fafb" stroke="#e5e7eb"/>
+  <rect x="5" y="5" width="890" height="230" fill="#f9fafb" stroke="#e5e7eb"/>
 
-  <rect x="20" y="95" width="40" height="30" fill="#dcfce7" stroke="#22c55e"/>
-  <text x="40" y="140" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700">CSV</text>
+  <!-- Source -->
+  <rect x="20" y="105" width="40" height="30" fill="#dcfce7" stroke="#22c55e"/>
+  <text x="40" y="150" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700">CSV</text>
 
-  <rect x="80" y="60" width="130" height="100" fill="#eef2ff" stroke="#6366f1" stroke-width="2"/>
-  <text x="95" y="85" font-family="Arial" font-size="13" font-weight="700">Data Ingestion</text>
-  <text x="90" y="105" font-family="Arial" font-size="10">Scan &amp; Load</text>
-  <text x="90" y="120" font-family="Arial" font-size="10">De-duplicate</text>
+  <!-- Data Ingestion -->
+  <rect x="80" y="70" width="140" height="110" fill="#eef2ff" stroke="#6366f1" stroke-width="2"/>
+  <text x="95" y="95" font-family="Arial" font-size="13" font-weight="700">Data Ingestion</text>
+  <text x="90" y="115" font-family="Arial" font-size="10">Scan &amp; Load</text>
+  <text x="90" y="130" font-family="Arial" font-size="10">De-duplicate</text>
 
-  <rect x="230" y="60" width="120" height="100" fill="#ecfdf5" stroke="#16a34a" stroke-width="2"/>
-  <text x="250" y="95" font-family="Arial" font-size="13" font-weight="700">Seller Data</text>
+  <!-- Seller -->
+  <rect x="240" y="70" width="140" height="110" fill="#ecfdf5" stroke="#16a34a" stroke-width="2"/>
+  <text x="260" y="100" font-family="Arial" font-size="13" font-weight="700">Seller Data</text>
+  <text x="250" y="125" font-family="Arial" font-size="10">Cleaned Records</text>
 
-  <rect x="370" y="60" width="140" height="100" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
-  <text x="385" y="85" font-family="Arial" font-size="13" font-weight="700">Price Monitoring</text>
-  <text x="380" y="105" font-family="Arial" font-size="10">Violation Detection</text>
+  <!-- Monitoring -->
+  <rect x="400" y="70" width="160" height="110" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="415" y="95" font-family="Arial" font-size="13" font-weight="700">Price Monitoring</text>
+  <text x="410" y="115" font-family="Arial" font-size="10">Enrichment &amp; Join</text>
+  <text x="410" y="130" font-family="Arial" font-size="10">Violation Detection</text>
+  <text x="410" y="145" font-family="Arial" font-size="10">Track Lineage</text>
 
-  <rect x="530" y="60" width="130" height="100" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
-  <text x="545" y="95" font-family="Arial" font-size="13" font-weight="700">Violation Table</text>
+  <!-- Violation -->
+  <rect x="580" y="70" width="140" height="110" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+  <text x="600" y="100" font-family="Arial" font-size="13" font-weight="700">Violation Table</text>
+  <text x="595" y="125" font-family="Arial" font-size="10">Flagged Violations</text>
 
-  <rect x="680" y="60" width="130" height="100" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
-  <text x="710" y="95" font-family="Arial" font-size="13" font-weight="700">PDF Letters</text>
+  <!-- PDF -->
+  <rect x="740" y="70" width="140" height="110" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <text x="770" y="100" font-family="Arial" font-size="13" font-weight="700">PDF Letters</text>
+  <text x="760" y="125" font-family="Arial" font-size="10">Generate Warning</text>
 
-  <text x="745" y="40" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700">Generate Warnings</text>
+  <!-- Top label -->
+  <text x="810" y="45" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700">Generate Warnings</text>
 
-  <line x1="60" y1="110" x2="80" y2="110" stroke="#6b7280" stroke-width="2"/>
-  <polygon points="80,110 74,106 74,114" fill="#6b7280"/>
+  <!-- Arrows -->
+  <line x1="60" y1="120" x2="80" y2="120" stroke="#6b7280" stroke-width="2"/>
+  <polygon points="80,120 74,116 74,124" fill="#6b7280"/>
 
-  <line x1="210" y1="110" x2="230" y2="110" stroke="#6b7280" stroke-width="2"/>
-  <polygon points="230,110 224,106 224,114" fill="#6b7280"/>
+  <line x1="220" y1="120" x2="240" y2="120" stroke="#6b7280" stroke-width="2"/>
+  <polygon points="240,120 234,116 234,124" fill="#6b7280"/>
 
-  <line x1="350" y1="110" x2="370" y2="110" stroke="#6b7280" stroke-width="2"/>
-  <polygon points="370,110 364,106 364,114" fill="#6b7280"/>
+  <line x1="380" y1="120" x2="400" y2="120" stroke="#6b7280" stroke-width="2"/>
+  <polygon points="400,120 394,116 394,124" fill="#6b7280"/>
 
-  <line x1="510" y1="110" x2="530" y2="110" stroke="#6b7280" stroke-width="2"/>
-  <polygon points="530,110 524,106 524,114" fill="#6b7280"/>
+  <line x1="560" y1="120" x2="580" y2="120" stroke="#6b7280" stroke-width="2"/>
+  <polygon points="580,120 574,116 574,124" fill="#6b7280"/>
 
-  <line x1="660" y1="110" x2="680" y2="110" stroke="#6b7280" stroke-width="2"/>
-  <polygon points="680,110 674,106 674,114" fill="#6b7280"/>
+  <line x1="720" y1="120" x2="740" y2="120" stroke="#6b7280" stroke-width="2"/>
+  <polygon points="740,120 734,116 734,124" fill="#6b7280"/>
 
 </svg>
